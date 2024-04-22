@@ -44,6 +44,7 @@ namespace Pizza_Rendeles
             this.chb_szosz = new System.Windows.Forms.CheckBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.btn_rendeles = new System.Windows.Forms.Button();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.num_db)).BeginInit();
             this.grb_meret.SuspendLayout();
             this.grb_extra.SuspendLayout();
@@ -62,12 +63,6 @@ namespace Pizza_Rendeles
             // 
             this.cmb_pizza.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmb_pizza.FormattingEnabled = true;
-            this.cmb_pizza.Items.AddRange(new object[] {
-            "Magyaros pizza",
-            "Sonkás pizza",
-            "Ananászos pizza",
-            "Gombás pizza",
-            "Songoku pizza"});
             this.cmb_pizza.Location = new System.Drawing.Point(17, 38);
             this.cmb_pizza.Name = "cmb_pizza";
             this.cmb_pizza.Size = new System.Drawing.Size(224, 33);
@@ -261,6 +256,7 @@ namespace Pizza_Rendeles
         private System.Windows.Forms.CheckBox chb_szosz;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button btn_rendeles;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
     }
 }
 

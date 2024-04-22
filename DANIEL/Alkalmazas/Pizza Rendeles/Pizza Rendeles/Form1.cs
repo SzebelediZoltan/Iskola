@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Pizza_Rendeles
 {
@@ -15,6 +16,16 @@ namespace Pizza_Rendeles
         public Form1()
         {
             InitializeComponent();
+
+            StreamReader fr = new StreamReader("pizzak.txt");
+
+            while (!fr.EndOfStream)
+            {
+                cmb_pizza.Items.Add(fr.ReadLine());
+            }
+
+            fr.Close();
+
             cmb_pizza.SelectedIndex = 0;
         }
 
@@ -66,6 +77,17 @@ namespace Pizza_Rendeles
             listBox1.Items.Add(extraSzoveg + " Ft");
         }
 
+        private void Kiiratas()
+        {
+            try
+            {
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+
+                }
+            }
+        }
+
         static string PSzamolas(string valasztott, decimal szorzo)
         {
             string ar = valasztott.Split(' ')[4];
@@ -77,6 +99,7 @@ namespace Pizza_Rendeles
         private void btn_rendeles_Click(object sender, EventArgs e)
         {
             MessageBox.Show("A teljes ár: " + Convert.ToString(osszeg) + " Ft");
+            Kiiratas(sender, e)
         }
     }
 }
