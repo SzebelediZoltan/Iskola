@@ -1,0 +1,20 @@
+H:\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.exe.config
+H:\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.exe
+H:\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.pdb
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.AssemblyReference.cache
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza_Rendeles.Form1.resources
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza_Rendeles.Properties.Resources.resources
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.GenerateResource.cache
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.CoreCompileInputs.cache
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.exe
+H:\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.pdb
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.exe.config
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.exe
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\bin\Debug\Pizza Rendeles.pdb
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.AssemblyReference.cache
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza_Rendeles.Form1.resources
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza_Rendeles.Properties.Resources.resources
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.GenerateResource.cache
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.csproj.CoreCompileInputs.cache
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.exe
+E:\Iskola\Pizza Rendeles\Pizza Rendeles\obj\Debug\Pizza Rendeles.pdb
