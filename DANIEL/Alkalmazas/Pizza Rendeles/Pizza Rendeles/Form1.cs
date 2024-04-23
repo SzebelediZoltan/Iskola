@@ -79,12 +79,22 @@ namespace Pizza_Rendeles
 
         private void Kiiratas()
         {
+            saveFileDialog1.InitialDirectory = "./";
             try
             {
                 if (saveFileDialog1.ShowDialog() == DialogResult.OK)
                 {
-
+                    StreamWriter fw = new StreamWriter(saveFileDialog1.FileName);
+                    for (int i = 0; i < listBox1.Items.Count; i++)
+                    {
+                        fw.WriteLine(listBox1.Items[i]);
+                    }
+                    fw.Write("Összeg: " + osszeg);
+                    fw.Close();
                 }
+            } catch
+            {
+                MessageBox.Show("Error!");
             }
         }
 
@@ -99,7 +109,7 @@ namespace Pizza_Rendeles
         private void btn_rendeles_Click(object sender, EventArgs e)
         {
             MessageBox.Show("A teljes ár: " + Convert.ToString(osszeg) + " Ft");
-            Kiiratas(sender, e)
+            Kiiratas();
         }
     }
 }
