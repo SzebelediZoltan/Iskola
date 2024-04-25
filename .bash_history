@@ -12,3 +12,5 @@ git push
 git init -b main
 git innit
 git init
+git pull
+git status
