@@ -14,3 +14,8 @@ git innit
 git init
 git pull
 git status
+git add 
+git add .
+git commit -m "adat"
+git psuh
+git push
