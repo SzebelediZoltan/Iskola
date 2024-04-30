@@ -19,3 +19,7 @@ git add .
 git commit -m "adat"
 git psuh
 git push
+git status
+git add .
+git commit -m "24-04-26 3.ora"
+git push

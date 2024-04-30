@@ -1,0 +1,10 @@
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\bin\Debug\Rejtveny.exe.config
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\bin\Debug\Rejtveny.exe
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\bin\Debug\Rejtveny.pdb
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.csproj.AssemblyReference.cache
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.Form1.resources
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.Properties.Resources.resources
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.csproj.GenerateResource.cache
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.csproj.CoreCompileInputs.cache
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.exe
+H:\DANIEL\Alkalmazas\Rejtveny\Rejtveny\obj\Debug\Rejtveny.pdb
