@@ -23,3 +23,7 @@ git status
 git add .
 git commit -m "24-04-26 3.ora"
 git push
+git add .
+git commit -m "Zolikaaaa"
+git push
+git status

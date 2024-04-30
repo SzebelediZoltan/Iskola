@@ -14,6 +14,7 @@ namespace Rejtveny
     public partial class Form1 : Form
     {
         static int lepes = 0;
+        static List<List<int>> alapFeladvany = new List<List<int>>();
         static List<Megoldas> megoldasok = new List<Megoldas>();
         public Form1()
         {
@@ -49,7 +50,7 @@ namespace Rejtveny
             TablaBeallitasok();
             Beolvasas();
             GridBeallitas();
-            btnElozo.Enabled = false;
+            BtnEllenorzes();
         }
 
         private void GridBeallitas()
@@ -62,6 +63,27 @@ namespace Rejtveny
                     dgvTabla.Rows[i].Cells[j].Value = megoldasok[lepes].matrix[i][j];
                 }
             }
+
+            Vizsgalat();
+        }
+
+        private void Vizsgalat()
+        {
+            for (int i = 0; i < dgvTabla.RowCount; i++)
+            {
+                for (int j = 0; j < dgvTabla.ColumnCount; j++)
+                {
+                    if (!HelyesTorony(i, j))
+                    {
+                        dgvTabla.Rows[i].Cells[j].Style.BackColor = Color.Red;
+                    }
+                }
+            }
+        }
+
+        private bool HelyesTorony(int i, int j)
+        {
+            return false
         }
 
         private void Beolvasas()
@@ -104,32 +126,33 @@ namespace Rejtveny
             }
         }
 
+        private void BtnEllenorzes()
+        {
+            if(lepes == 0)
+            {
+                btnElozo.Enabled = false;
+            } else if (lepes == megoldasok.Count-1)
+            {
+                btnKovetkezo.Enabled = false;
+            } else
+            {
+                btnKovetkezo.Enabled = true;
+                btnElozo.Enabled = true;
+            }
+        }
+
         private void btnElozo_Click(object sender, EventArgs e)
         {
             lepes -= 1;
             GridBeallitas();
-            if(lepes == 0)
-            {
-                btnElozo.Enabled = false;
-            }
-            if (lepes != megoldasok.Count - 1)
-            {
-                btnKovetkezo.Enabled = true;
-            }
+            BtnEllenorzes();
         }
 
         private void btnKovetkezo_Click(object sender, EventArgs e)
         {
             lepes += 1;
             GridBeallitas();
-            if (lepes == megoldasok.Count-1)
-            {
-                btnKovetkezo.Enabled = false;
-            }
-            if (lepes != 0)
-            {
-                btnElozo.Enabled = true;
-            }
+            BtnEllenorzes();
         }
     }
 }
