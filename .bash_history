@@ -33,3 +33,6 @@ git push
 git add .
 git commit -m "Szamologep"
 git push
+git add .
+git commit -m "DOM"
+git push
