@@ -27,3 +27,6 @@ git add .
 git commit -m "Zolikaaaa"
 git push
 git status
+git add .
+git commit -m "Draw"
+git push
