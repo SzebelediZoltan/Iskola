@@ -30,3 +30,6 @@ git status
 git add .
 git commit -m "Draw"
 git push
+git add .
+git commit -m "Szamologep"
+git push
