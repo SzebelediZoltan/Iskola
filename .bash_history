@@ -36,3 +36,6 @@ git push
 git add .
 git commit -m "DOM"
 git push
+git status
+git restore .
+git status
