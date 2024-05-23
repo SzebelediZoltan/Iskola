@@ -1,0 +1,10 @@
+H:\DANIEL\Alkalmazas\NewForm\NewForm\bin\Debug\NewForm.exe.config
+H:\DANIEL\Alkalmazas\NewForm\NewForm\bin\Debug\NewForm.exe
+H:\DANIEL\Alkalmazas\NewForm\NewForm\bin\Debug\NewForm.pdb
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.csproj.AssemblyReference.cache
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.Form1.resources
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.Properties.Resources.resources
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.csproj.GenerateResource.cache
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.csproj.CoreCompileInputs.cache
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.exe
+H:\DANIEL\Alkalmazas\NewForm\NewForm\obj\Debug\NewForm.pdb
