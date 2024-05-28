@@ -129,6 +129,7 @@ namespace Lista_Karbantartás
             this.torol1.TabIndex = 8;
             this.torol1.Text = "Töröl";
             this.torol1.UseVisualStyleBackColor = true;
+            this.torol1.Click += new System.EventHandler(this.torol1_Click);
             // 
             // listBox2
             // 
@@ -148,6 +149,7 @@ namespace Lista_Karbantartás
             this.alulra2.TabIndex = 10;
             this.alulra2.Text = "Alulra";
             this.alulra2.UseVisualStyleBackColor = true;
+            this.alulra2.Click += new System.EventHandler(this.alulra2_Click);
             // 
             // le2
             // 
@@ -157,6 +159,7 @@ namespace Lista_Karbantartás
             this.le2.TabIndex = 11;
             this.le2.Text = "Le";
             this.le2.UseVisualStyleBackColor = true;
+            this.le2.Click += new System.EventHandler(this.le2_Click);
             // 
             // fel2
             // 
@@ -166,6 +169,7 @@ namespace Lista_Karbantartás
             this.fel2.TabIndex = 12;
             this.fel2.Text = "Fel";
             this.fel2.UseVisualStyleBackColor = true;
+            this.fel2.Click += new System.EventHandler(this.fel2_Click);
             // 
             // felulre2
             // 
@@ -175,6 +179,7 @@ namespace Lista_Karbantartás
             this.felulre2.TabIndex = 13;
             this.felulre2.Text = "Felülre";
             this.felulre2.UseVisualStyleBackColor = true;
+            this.felulre2.Click += new System.EventHandler(this.felulre2_Click);
             // 
             // torol2
             // 
@@ -184,6 +189,7 @@ namespace Lista_Karbantartás
             this.torol2.TabIndex = 14;
             this.torol2.Text = "Töröl";
             this.torol2.UseVisualStyleBackColor = true;
+            this.torol2.Click += new System.EventHandler(this.torol2_Click);
             // 
             // hozzaad2
             // 
