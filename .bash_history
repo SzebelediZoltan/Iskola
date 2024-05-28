@@ -39,3 +39,8 @@ git push
 git status
 git restore .
 git status
+git add .
+git commit -m "anyad"
+git push
+git push
+git status
