@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Időjárás</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="hatterkep"></div>
+
+    <section id="kategoriak">
+        <button id="generalas">Kategóriák megjelenítése</button>
+        <h1>Kategória kiválasztása</h1>
+        <select></select>
+        <div id="telepulesek"></div>
+    </section>
+
+    <hr>
+
+    <section id="kereses">
+        <h1>Keresés településre</h1>
+        <label>Név: <input type="text" placeholder="Pl.: Cegléd"></label>
+        <ul></ul>
+        <p>Csapadék mennyisége (mm): <span>-</span></p>
+    </section>
+
+    <hr>
+
+    <section id="hatter">
+        <h1>Háttér átlátszósága</h1>
+        <input type="range" min="0.01" max="0.99" step="0.01" value="0.2">
+    </section>
+
+    <hr>
+
+    <label><input type="checkbox">Részt veszek a szavazásban</label>
+
+    <section id="velemeny">
+        <h1>Örül-e a sok csapadéknak?</h1>
+        <div class="container">
+            <label>
+                <input type="radio" name="valasz" value="igen">
+                Igen
+            </label>
+            <label>
+                <input type="radio" name="valasz" value="nem">
+                Nem
+            </label>
+        </div>
+        <p>Jelenlegi állás (Igen - Nem): <span></span></p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

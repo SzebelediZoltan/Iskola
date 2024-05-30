@@ -47,3 +47,9 @@ git status
 git add .
 git commit -m "Szoki"
 git push
+git push
+git add
+gitadd .
+git add .
+git commit -m "Fel lestb"
+git push

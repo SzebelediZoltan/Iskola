@@ -75,6 +75,7 @@ namespace Lista_Karbantartás
             this.felulre1.TabIndex = 2;
             this.felulre1.Text = "Felülre";
             this.felulre1.UseVisualStyleBackColor = true;
+            this.felulre1.Click += new System.EventHandler(this.felulre1_Click);
             // 
             // fel1
             // 
@@ -84,6 +85,7 @@ namespace Lista_Karbantartás
             this.fel1.TabIndex = 3;
             this.fel1.Text = "Fel";
             this.fel1.UseVisualStyleBackColor = true;
+            this.fel1.Click += new System.EventHandler(this.fel1_Click);
             // 
             // le1
             // 
@@ -93,6 +95,7 @@ namespace Lista_Karbantartás
             this.le1.TabIndex = 4;
             this.le1.Text = "Le";
             this.le1.UseVisualStyleBackColor = true;
+            this.le1.Click += new System.EventHandler(this.le1_Click);
             // 
             // alulra1
             // 
@@ -102,6 +105,7 @@ namespace Lista_Karbantartás
             this.alulra1.TabIndex = 5;
             this.alulra1.Text = "Alulra";
             this.alulra1.UseVisualStyleBackColor = true;
+            this.alulra1.Click += new System.EventHandler(this.alulra1_Click);
             // 
             // jobbra
             // 
@@ -111,6 +115,7 @@ namespace Lista_Karbantartás
             this.jobbra.TabIndex = 6;
             this.jobbra.Text = ">";
             this.jobbra.UseVisualStyleBackColor = true;
+            this.jobbra.Click += new System.EventHandler(this.jobbra_Click);
             // 
             // balra
             // 
@@ -120,6 +125,7 @@ namespace Lista_Karbantartás
             this.balra.TabIndex = 7;
             this.balra.Text = "<";
             this.balra.UseVisualStyleBackColor = true;
+            this.balra.Click += new System.EventHandler(this.balra_Click);
             // 
             // torol1
             // 

@@ -24,8 +24,14 @@ namespace Lista_Karbantartás
             string szo = $"{textBox1.Text} {textBox2.Text} {textBox3.Text}";
             szo = szo.Trim();
 
-            listBox.Items.Add(szo);
-            this.Close();
+            if(szo != "")
+            {
+                listBox.Items.Add(szo);
+                this.Close();
+            } else
+            {
+                MessageBox.Show("Írj bele valamit!", "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            }
         }
     }
 }

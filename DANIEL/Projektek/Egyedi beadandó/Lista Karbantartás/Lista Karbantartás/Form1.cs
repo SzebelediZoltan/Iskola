@@ -46,24 +46,32 @@ namespace Lista_Karbantartás
         private void hozzaad1_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2(listBox1);
-            f2.Show();
+            f2.ShowDialog();
             balTiltas();
         }
 
         private void hozzaad2_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2(listBox2);
-            f2.Show();
+            f2.ShowDialog();
             jobbTiltas();
         }
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             Check(2);
+            if (listBox2.SelectedIndex != -1)
+            {
+                listBox1.ClearSelected();
+            }
         }
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             Check(1);
+            if(listBox1.SelectedIndex != -1)
+            {
+                listBox2.ClearSelected();
+            }
         }
         
         private void Check(int x)
@@ -99,8 +107,15 @@ namespace Lista_Karbantartás
                     felulre2.Enabled = true;
                 }
 
-                balra.Enabled = true;
-                torol2.Enabled = true;
+                if (listBox2.SelectedIndex != -1)
+                {
+                    balra.Enabled = true;
+                    torol2.Enabled = true;
+                } else
+                {
+                    balra.Enabled = false;
+                    torol2.Enabled = false;
+                }
             } else if (x == 1)
             {
                 if (listBox1.Items.Count == 1)
@@ -132,8 +147,15 @@ namespace Lista_Karbantartás
                     felulre1.Enabled = true;
                 }
 
-                jobbra.Enabled = true;
-                torol1.Enabled = true;
+                if (listBox1.SelectedIndex != -1)
+                {
+                    jobbra.Enabled = true;
+                    torol1.Enabled = true;
+                } else
+                {
+                    jobbra.Enabled = false;
+                    torol1.Enabled = false;
+                }
             }
         }
 
@@ -170,17 +192,17 @@ namespace Lista_Karbantartás
         private void Fel(ListBox listBox)
         {
             string tmp = "" + listBox.Items[listBox.SelectedIndex];
-            listBox2.Items[listBox.SelectedIndex] = listBox2.Items[listBox.SelectedIndex-1];
-            listBox2.Items[listBox.SelectedIndex-1] = tmp;
-            listBox2.SelectedIndex = listBox2.SelectedIndex-1;
+            listBox.Items[listBox.SelectedIndex] = listBox.Items[listBox.SelectedIndex-1];
+            listBox.Items[listBox.SelectedIndex-1] = tmp;
+            listBox.SelectedIndex = listBox.SelectedIndex-1;
         }
 
         private void Le(ListBox listBox)
         {
             string tmp = "" + listBox.Items[listBox.SelectedIndex];
-            listBox2.Items[listBox.SelectedIndex] = listBox2.Items[listBox.SelectedIndex + 1];
-            listBox2.Items[listBox.SelectedIndex + 1] = tmp;
-            listBox2.SelectedIndex = listBox2.SelectedIndex + 1;
+            listBox.Items[listBox.SelectedIndex] = listBox.Items[listBox.SelectedIndex + 1];
+            listBox.Items[listBox.SelectedIndex + 1] = tmp;
+            listBox.SelectedIndex = listBox.SelectedIndex + 1;
         }
 
         private void Alulra(ListBox listBox)
@@ -199,6 +221,42 @@ namespace Lista_Karbantartás
         private void alulra2_Click(object sender, EventArgs e)
         {
             Alulra(listBox2);
+        }
+
+        private void felulre1_Click(object sender, EventArgs e)
+        {
+            Felulre(listBox1);
+        }
+
+        private void fel1_Click(object sender, EventArgs e)
+        {
+            Fel(listBox1);
+        }
+
+        private void le1_Click(object sender, EventArgs e)
+        {
+            Le(listBox1);
+        }
+
+        private void alulra1_Click(object sender, EventArgs e)
+        {
+            Alulra(listBox1);
+        }
+
+        private void jobbra_Click(object sender, EventArgs e)
+        {
+            listBox2.Items.Add(listBox1.Items[listBox1.SelectedIndex]);
+            listBox1.Items.RemoveAt(listBox1.SelectedIndex);
+            listBox2.SelectedIndex = listBox2.Items.Count - 1;
+            balTiltas();
+        }
+
+        private void balra_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(listBox2.Items[listBox2.SelectedIndex]);
+            listBox2.Items.RemoveAt(listBox2.SelectedIndex);
+            listBox1.SelectedIndex = listBox1.Items.Count - 1;
+            jobbTiltas();
         }
     }
 }

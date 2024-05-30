@@ -111,7 +111,7 @@ namespace Lista_Karbantartás
             this.Font = new System.Drawing.Font("Ravie", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Hozzáadás";
             this.ResumeLayout(false);
             this.PerformLayout();
 
