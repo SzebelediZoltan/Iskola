@@ -53,3 +53,6 @@ gitadd .
 git add .
 git commit -m "Fel lestb"
 git push
+git add .
+git  commit -m "Kesz projekt"
+git push

@@ -21,16 +21,49 @@ const szavazas = {
 
 // F1
 
+const gen = document.querySelector("#generalas")
+gen.addEventListener("click", () => {
+    const select = document.querySelector("select")
+    for (let i = 0; i < 9; i+=2) {
+        const option = document.createElement("option")
+        option.innerText = `${i} - ${i+1}`
+        select.appendChild(option)
+    }
+    select.style.display = "inline"
+    gen.disabled = true
+})
 
 
 
 // F2
+function listaGeneralas(also, felso) {
+    const ul = document.createElement("ul")
+    for (const telepules of telepulesek) {
+        if(telepules.csapadek <= felso && telepules.csapadek >= also) {
+            const li = document.createElement("li")
+            li.innerText = `${telepules.nev}: ${telepules.csapadek} mm`
+            ul.appendChild(li)
+        }
+    }
+
+    return ul
+}
+
+const select = document.querySelector("select")
+select.addEventListener("change", () => {
+    const telep = document.querySelector("#telepulesek")
+    telep.innerHTML = ""
+    const ertekek = select.value.split(" ")
+    document.querySelector("#telepulesek").appendChild(listaGeneralas(ertekek[0], ertekek[2]))
+})
 
 
 
 
 // F3
-
+function keres(nev) {
+    let i = 0
+}
 
 
 

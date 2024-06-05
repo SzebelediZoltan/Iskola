@@ -30,6 +30,8 @@ namespace Lista_Karbantartás
                 this.Close();
             } else
             {
+                MessageBoxManager.OK = "Jólvan na";
+                MessageBoxManager.Register();
                 MessageBox.Show("Írj bele valamit!", "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
             }
         }
