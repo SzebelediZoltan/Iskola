@@ -56,3 +56,7 @@ git push
 git add .
 git  commit -m "Kesz projekt"
 git push
+git add .
+git commit -m "24.06.05"
+git push
+git status
