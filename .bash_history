@@ -60,3 +60,6 @@ git add .
 git commit -m "24.06.05"
 git push
 git status
+git add .
+git commit -m "10. wipe"
+git push
