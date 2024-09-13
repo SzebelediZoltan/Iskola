@@ -9,12 +9,11 @@ namespace _2024_09_11_Ismetles_Matrix
 {
     internal class Program
     {
-        ~ Program() { 
-            static List<List<int>> matrix = new List<List<int>>();
-            static List<List<int>> pirosak = new List<List<int>>();
-            static int maxx = 0;
-            static int maxy = 0;
-        }
+        static List<List<int>> matrix = new List<List<int>>();
+        static List<List<int>> pirosak = new List<List<int>>();
+        static int maxx = 0;
+        static int maxy = 0;
+
         static void Main(string[] args)
         {
             ListaElkeszites();

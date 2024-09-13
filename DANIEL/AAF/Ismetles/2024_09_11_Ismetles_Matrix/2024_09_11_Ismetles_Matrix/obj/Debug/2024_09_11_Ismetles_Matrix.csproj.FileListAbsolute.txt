@@ -5,3 +5,10 @@ H:\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj
 H:\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.csproj.CoreCompileInputs.cache
 H:\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.exe
 H:\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.pdb
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.exe
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.pdb
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.exe.config
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.exe
+H:\Iskola\DANIEL\AAF\Ismetles\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.pdb
