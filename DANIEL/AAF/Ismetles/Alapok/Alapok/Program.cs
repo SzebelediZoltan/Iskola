@@ -30,7 +30,7 @@ namespace Alapok
         {
             for (int i = 0; i < 20; i++)
             {
-
+                Console.WriteLine($"{hex[i]} -> R:{rgb[i][0]} G:{rgb[i][1]} B:{rgb[i][2]}");
             }
         }
 

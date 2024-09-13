@@ -1,0 +1,7 @@
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\bin\Debug\Rajzzz.exe.config
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\bin\Debug\Rajzzz.exe
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\bin\Debug\Rajzzz.pdb
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\obj\Debug\Rajzzz.csproj.AssemblyReference.cache
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\obj\Debug\Rajzzz.csproj.CoreCompileInputs.cache
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\obj\Debug\Rajzzz.exe
+H:\DANIEL\AAF\Ismetles\Rajzzz\Rajzzz\obj\Debug\Rajzzz.pdb
