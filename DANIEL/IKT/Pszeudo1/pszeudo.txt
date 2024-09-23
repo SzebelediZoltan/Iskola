@@ -1,0 +1,17 @@
+Be: N(egész), M(egész) X lista
+Ki: Y listába kigyűjti a páratlanokat.
+
+k = 1
+Ciklus i = 0-tól n-1-ig:
+	db = 0
+	Ciklus j = 0-tól m-1-ig:
+		Ha (X[j] div k) mod 2 = 0 AKKOR:
+			db += 1
+			X[db] = X[j]
+		KÜLÖNBEN:
+			Y[j- db] = X[j]
+	Ciklus vége
+	Ciklus j = db + 1-től m-1-ig:
+		X[j] = Y[j-db]
+	Ciklus vége
+Ciklus vége
