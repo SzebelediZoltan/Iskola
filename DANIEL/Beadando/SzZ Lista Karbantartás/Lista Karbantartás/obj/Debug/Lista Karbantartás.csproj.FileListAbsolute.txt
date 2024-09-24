@@ -9,3 +9,14 @@ H:\DANIEL\Projektek\Egyedi beadandó\Lista Karbantartás\Lista Karbantartás\obj
 H:\DANIEL\Projektek\Egyedi beadandó\Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.csproj.CoreCompileInputs.cache
 H:\DANIEL\Projektek\Egyedi beadandó\Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.exe
 H:\DANIEL\Projektek\Egyedi beadandó\Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.pdb
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\bin\Debug\Lista Karbantartás.exe.config
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\bin\Debug\Lista Karbantartás.exe
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\bin\Debug\Lista Karbantartás.pdb
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.csproj.AssemblyReference.cache
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista_Karbantartás.Form1.resources
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista_Karbantartás.Form2.resources
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista_Karbantartás.Properties.Resources.resources
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.csproj.GenerateResource.cache
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.csproj.CoreCompileInputs.cache
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.exe
+E:\Iskola\DANIEL\Beadando\SzZ Lista Karbantartás\Lista Karbantartás\obj\Debug\Lista Karbantartás.pdb
