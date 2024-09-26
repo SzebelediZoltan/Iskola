@@ -1,0 +1,7 @@
+H:\Iskola\DANIEL\AAF\Class\Class\bin\Debug\Class.exe.config
+H:\Iskola\DANIEL\AAF\Class\Class\bin\Debug\Class.exe
+H:\Iskola\DANIEL\AAF\Class\Class\bin\Debug\Class.pdb
+H:\Iskola\DANIEL\AAF\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Class\Class\obj\Debug\Class.exe
+H:\Iskola\DANIEL\AAF\Class\Class\obj\Debug\Class.pdb
