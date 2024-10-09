@@ -1,0 +1,7 @@
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\obj\Debug\2024_10_09_Oroklodes.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\obj\Debug\2024_10_09_Oroklodes.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\bin\Debug\2024_10_09_Oroklodes.exe.config
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\bin\Debug\2024_10_09_Oroklodes.exe
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\bin\Debug\2024_10_09_Oroklodes.pdb
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\obj\Debug\2024_10_09_Oroklodes.exe
+H:\Iskola\DANIEL\AAF\2024_10_09_Oroklodes\2024_10_09_Oroklodes\obj\Debug\2024_10_09_Oroklodes.pdb
