@@ -11,11 +11,8 @@ namespace _2024_10_09_Oroklodes
     {
         static void Main(string[] args)
         {
-            Ososztaly o = new Ososztaly();
-            Utodosztaly u = new Utodosztaly();
-
-            o.x = 123;
-            u.b = 543;
+            Ososztaly o = new Ososztaly(10,20);
+            Utodosztaly u = new Utodosztaly(12, 22, 32);
 
             Console.WriteLine(o.ToString());
             Console.WriteLine(u.ToString());
@@ -26,6 +23,13 @@ namespace _2024_10_09_Oroklodes
         class Ososztaly
         {
             public int x;
+            protected int y;
+
+            public Ososztaly(int x, int y)
+            {
+                this.x = x;
+                this.y = y;
+            }
 
             public void TobbszorozX(int a)
             {
@@ -34,7 +38,7 @@ namespace _2024_10_09_Oroklodes
 
             public override string ToString()
             {
-                return "x=" + x;
+                return "x=" + x + "\ty=" + y;
             }
         }
 
@@ -42,6 +46,11 @@ namespace _2024_10_09_Oroklodes
         {
             public int b;
             
+            public Utodosztaly(int x, int y, int b) : base(x, y)
+            {
+                this.b = b;
+            }
+
             public void TobbszorozB(int k)
             {
                 b *= k;
@@ -49,7 +58,7 @@ namespace _2024_10_09_Oroklodes
 
             public override string ToString()
             {
-                return "b=" + b + "\t" + "x=" + x;
+                return "x=" + x + "\ty=" + y + "\tb=" + b;
             }
         }
     }
