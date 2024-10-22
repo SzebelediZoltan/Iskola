@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{22689AC2-7AAA-4C84-8FD3-08E64FD53BAA}|Abstr-Interface\\Abstr-Interface.csproj|solutionrelative:abstr-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22689AC2-7AAA-4C84-8FD3-08E64FD53BAA}|Abstr-Interface\\Abstr-Interface.csproj|h:\\iskola\\daniel\\aaf\\abstr-interface\\abstr-interface\\ipelda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22689AC2-7AAA-4C84-8FD3-08E64FD53BAA}|Abstr-Interface\\Abstr-Interface.csproj|H:\\Iskola\\DANIEL\\AAF\\Abstr-Interface\\abstr-interface\\ipelda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22689AC2-7AAA-4C84-8FD3-08E64FD53BAA}|Abstr-Interface\\Abstr-Interface.csproj|solutionrelative:abstr-interface\\ipelda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +26,8 @@
               "Title": "IPelda.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Abstr-Interface\\Abstr-Interface\\IPelda.cs",
               "RelativeDocumentMoniker": "Abstr-Interface\\IPelda.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Abstr-Interface\\Abstr-Interface\\IPelda.cs",
-              "RelativeToolTip": "Abstr-Interface\\IPelda.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Abstr-Interface\\Abstr-Interface\\IPelda.cs*",
+              "RelativeToolTip": "Abstr-Interface\\IPelda.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:28:52.884Z",
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Abstr-Interface\\Program.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Abstr-Interface\\Abstr-Interface\\Program.cs",
               "RelativeToolTip": "Abstr-Interface\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:01:04.115Z",
               "EditorCaption": ""
