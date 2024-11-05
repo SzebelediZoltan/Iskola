@@ -17,21 +17,13 @@ const camera = new THREE.PerspectiveCamera(
 
 let i = 0;
 
-function elmegy() {
-    camera.position.set(0,0,i);
-    i++;
-    setTimeout(() => {
-        elmegy()
-    }, 1000)
-}
-
 const axesHelper = new THREE.AxesHelper(3);
 scene.add(axesHelper);
 
 camera.position.set(1,1,5);
 
 const boxGeometry = new THREE.BoxGeometry();
-const boxMaterial = new THREE.MeshBasicMaterial({color: "red"});
+const boxMaterial = new THREE.MeshBasicMaterial({color: "rgb(155, 0, 255)"});
 
 const box = new THREE.Mesh(boxGeometry, boxMaterial);
 scene.add(box);

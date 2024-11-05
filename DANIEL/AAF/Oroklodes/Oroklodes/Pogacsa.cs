@@ -14,5 +14,15 @@ namespace Oroklodes
 
         }
 
+
+        public override void Megkostol()
+        {
+            mennyiseg /= 2;
+        }
+
+        public override string ToString()
+        {
+            return "Pogácsa" + base.ToString();
+        }
     }
 }
