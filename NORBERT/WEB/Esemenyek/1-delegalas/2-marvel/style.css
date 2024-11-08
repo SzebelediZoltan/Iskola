@@ -64,7 +64,7 @@ ul li.selected {
 /* Csere osztály! */
 ul li.swap {
     text-shadow: none;
-    color: rgba(246, 255, 0, 0.4);
+    color: transparent;
     animation: swap 0.5s forwards;
 }
 

@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\pekseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|h:\\iskola\\daniel\\aaf\\oroklodes\\oroklodes\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|h:\\iskola\\daniel\\aaf\\oroklodes\\oroklodes\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\oroklodes\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|h:\\iskola\\daniel\\aaf\\oroklodes\\oroklodes\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\oroklodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\oroklodes\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816E9087-7D47-4B79-8081-AAB096816CC3}|Oroklodes\\Oroklodes.csproj|solutionrelative:oroklodes\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,72 +32,33 @@
               "RelativeDocumentMoniker": "Oroklodes\\Pekseg.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Pekseg.cs",
               "RelativeToolTip": "Oroklodes\\Pekseg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:34:08.441Z",
+              "WhenOpened": "2024-11-06T06:47:43.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Kave.cs",
-              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Kave.cs",
-              "RelativeDocumentMoniker": "Oroklodes\\Kave.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Kave.cs",
-              "RelativeToolTip": "Oroklodes\\Kave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:20:10.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pogacsa.cs",
-              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Pogacsa.cs",
-              "RelativeDocumentMoniker": "Oroklodes\\Pogacsa.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Pogacsa.cs",
-              "RelativeToolTip": "Oroklodes\\Pogacsa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:36:10.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IArlap.cs",
-              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\IArlap.cs",
-              "RelativeDocumentMoniker": "Oroklodes\\IArlap.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\IArlap.cs",
-              "RelativeToolTip": "Oroklodes\\IArlap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:16:35.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Peksutemeny.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Peksutemeny.cs",
               "RelativeDocumentMoniker": "Oroklodes\\Peksutemeny.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Peksutemeny.cs",
               "RelativeToolTip": "Oroklodes\\Peksutemeny.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:23:06.587Z",
+              "WhenOpened": "2024-11-06T06:44:25.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Program.cs",
               "RelativeDocumentMoniker": "Oroklodes\\Program.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Oroklodes\\Oroklodes\\Program.cs",
               "RelativeToolTip": "Oroklodes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T07:16:02.705Z",
               "EditorCaption": ""

@@ -10,7 +10,7 @@ namespace Oroklodes
     internal class Pekseg
     {
 
-        static List<IArlap> termekek = new List<IArlap>();
+        public static List<IArlap> termekek = new List<IArlap>();
 
 
         public static void Vasarlok(string path)
@@ -20,11 +20,13 @@ namespace Oroklodes
             while (!f.EndOfStream)
             {
                 string[] st = f.ReadLine().Split(' ');
-                if (st.Length == 2)
+                if (st.Length == 3)
                 {
-                    
+                    termekek.Add(new Pogacsa(Convert.ToDouble(st[1]), Convert.ToDouble(st[2])));
+                } else
+                {
+                    termekek.Add(new Kave(st[1] == "habos"));
                 }
-                termekek.Add();
             }
         }
     }

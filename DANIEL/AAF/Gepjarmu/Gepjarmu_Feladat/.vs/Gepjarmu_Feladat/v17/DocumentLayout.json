@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|h:\\iskola\\daniel\\aaf\\gepjarmu\\gepjarmu_feladat\\gepjarmu_feladat\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\gepjarmu_feladat\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\gepjarmu_feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\gepjarmu_feladat\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|h:\\iskola\\daniel\\aaf\\gepjarmu\\gepjarmu_feladat\\gepjarmu_feladat\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\gepjarmu_feladat\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orszagut.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Orszagut.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\Orszagut.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Orszagut.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\Orszagut.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:51:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\AudiS8.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\AudiS8.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\AudiS8.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\AudiS8.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:44:43.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Robogo.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\Robogo.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Robogo.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\Robogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:40:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jarmu.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Jarmu.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\Jarmu.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Jarmu.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\Jarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:32:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KisGepjarmu.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\KisGepjarmu.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\KisGepjarmu.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\KisGepjarmu.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\KisGepjarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:31:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Program.cs",
+              "RelativeDocumentMoniker": "Gepjarmu_Feladat\\Program.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Program.cs",
+              "RelativeToolTip": "Gepjarmu_Feladat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:30:53.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

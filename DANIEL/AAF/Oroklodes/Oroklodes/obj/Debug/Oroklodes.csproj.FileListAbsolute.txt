@@ -1,0 +1,7 @@
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\bin\Debug\Oroklodes.exe.config
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\bin\Debug\Oroklodes.exe
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\bin\Debug\Oroklodes.pdb
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\obj\Debug\Oroklodes.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\obj\Debug\Oroklodes.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\obj\Debug\Oroklodes.exe
+H:\Iskola\DANIEL\AAF\Oroklodes\Oroklodes\obj\Debug\Oroklodes.pdb

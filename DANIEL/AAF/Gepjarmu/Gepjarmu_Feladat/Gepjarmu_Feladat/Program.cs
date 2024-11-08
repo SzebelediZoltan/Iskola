@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oroklodes
+namespace Gepjarmu_Feladat
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-            Pekseg.Vasarlok("adatok.txt");
-            List<IArlap> t = Pekseg.termekek;
+            Orszagut.jarmuvekJonnek("jarmuvek.txt");
+            Orszagut.kiketMertunkBe();
         }
     }
 }

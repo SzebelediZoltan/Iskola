@@ -22,7 +22,7 @@ namespace Oroklodes
 
         public override string ToString()
         {
-            return "Pogácsa" + base.ToString();
+            return "Pogácsa " + base.ToString();
         }
     }
 }
