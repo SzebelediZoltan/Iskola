@@ -16,11 +16,28 @@ function createBoard() {
     for (let i = 0; i < n; i++) {
         board.push([])
         for (let j = 0; j < n; j++) {
-            board[i].push({value: 0, isMine: false})
+            board[i].push({
+                    value: 0,
+                    isMine: false
+                })
             
         }
     }
-    console.log(board);
+    generateMines()
+}
+
+function generateMines() {
+    let actMines = 0
+
+    while(actMines < mineCount) {
+        const x = randint(0, n-1)
+        const y = randint(0, n-1)
+
+        if(!board[x][y].isMine) {
+            board[x][y].isMine = true
+            actMines++
+        }
+    }
 }
 
 function showBoard() {
