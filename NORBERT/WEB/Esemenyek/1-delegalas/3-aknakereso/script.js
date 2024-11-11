@@ -36,6 +36,17 @@ function generateMines() {
         if(!board[x][y].isMine) {
             board[x][y].isMine = true
             actMines++
+            incrementNeighbors(x, y)
+        }
+    }
+}
+
+function incrementNeighbors(x, y) {
+    for (let i = x-1; i <= x+1; i++) {
+        for (let j = y-1; j <= y+1; j++) {
+            if (0 <= i && 0<= j && i < n && j < n) {
+                board[i][j].value++
+            }
         }
     }
 }
@@ -47,7 +58,11 @@ function showBoard() {
         const tr = document.createElement("tr")
         for (let j = 0; j < board[i].length; j++) {
             const td = document.createElement("td")
-            td.innerText = board[i][j].value
+            if (board[i][j].isMine) {
+                td.innerText = "💣"
+            } else {
+                td.innerText = board[i][j].value
+            }
             tr.appendChild(td)
         }
         table.appendChild(tr)
