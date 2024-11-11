@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
 const renderer = new THREE.WebGLRenderer();
 
@@ -14,18 +15,52 @@ const camera = new THREE.PerspectiveCamera(
     0.1,
     1000
 );
+const orbit = new OrbitControls(camera, renderer.domElement);
 
-let i = 0;
+// const axesHelper = new THREE.AxesHelper(3);
+// scene.add(axesHelper);
 
-const axesHelper = new THREE.AxesHelper(3);
-scene.add(axesHelper);
+const gridHelper = new THREE.GridHelper(30);
+scene.add(gridHelper);
 
-camera.position.set(1,1,5);
+camera.position.set(1,1,30);
+orbit.update();
 
-const boxGeometry = new THREE.BoxGeometry();
-const boxMaterial = new THREE.MeshBasicMaterial({color: "rgb(155, 0, 255)"});
 
+const boxGeometry = new THREE.BoxGeometry(2,2,2);
+const boxMaterial = new THREE.MeshBasicMaterial({color: "red"});
 const box = new THREE.Mesh(boxGeometry, boxMaterial);
 scene.add(box);
 
-renderer.render(scene, camera);
+const sphereGeometry = new THREE.SphereGeometry(2,20,20);
+const sphereMaterial = new THREE.MeshBasicMaterial({
+// const sphereMaterial = new THREE.MeshLambertMaterial({
+    color: "blue"
+    // wireframe: true
+});
+const sphere1 = new THREE.Mesh(sphereGeometry,sphereMaterial);
+sphere1.position.set(2,0,0);
+scene.add(sphere1);
+const sphere2 = new THREE.Mesh(sphereGeometry,sphereMaterial);
+sphere2.position.set(-2,0,0);
+scene.add(sphere2);
+const sphere3 = new THREE.Mesh(sphereGeometry,sphereMaterial);
+sphere3.position.set(0,0,2);
+scene.add(sphere3);
+const sphere4 = new THREE.Mesh(sphereGeometry,sphereMaterial);
+sphere4.position.set(0,0,-2);
+scene.add(sphere4);
+
+const planeGeometry = new THREE.PlaneGeometry(30,30);
+const planeMatrial = new THREE.MeshBasicMaterial({color: "white"});
+const plane = new THREE.Mesh(planeGeometry, planeMatrial);
+plane.rotation.x = -0.5*Math.PI;
+scene.add(plane);
+
+
+//renderer.render(scene, camera);
+
+function animate(){
+    renderer.render(scene,camera);
+}
+renderer.setAnimationLoop(animate);
