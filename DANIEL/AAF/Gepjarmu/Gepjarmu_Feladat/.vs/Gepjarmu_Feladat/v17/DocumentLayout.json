@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|h:\\iskola\\daniel\\aaf\\gepjarmu\\gepjarmu_feladat\\gepjarmu_feladat\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\gepjarmu_feladat\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A17B442-D728-4AFF-9C39-C8A21AC4773A}|Gepjarmu_Feladat\\Gepjarmu_Feladat.csproj|solutionrelative:gepjarmu_feladat\\kisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Gepjarmu_Feladat\\Orszagut.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\Gepjarmu\\Gepjarmu_Feladat\\Gepjarmu_Feladat\\Orszagut.cs",
               "RelativeToolTip": "Gepjarmu_Feladat\\Orszagut.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:51:57.866Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Gepjarmu_Feladat\\AudiS8.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:44:43.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:44:43.331Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Gepjarmu_Feladat\\Robogo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:40:02.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:40:02.951Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Gepjarmu_Feladat\\Jarmu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:32:37.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:32:37.311Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Gepjarmu_Feladat\\KisGepjarmu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:31:35.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:31:35.652Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Gepjarmu_Feladat\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:30:53.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:30:53.608Z"
             }
           ]
         }
