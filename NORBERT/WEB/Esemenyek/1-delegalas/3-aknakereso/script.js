@@ -112,13 +112,33 @@ function revealNeighbors(x, y) {
     }
 }
 
+function handleWin() {
+    for (const row of board) {
+        for (const cell of row) {
+            if (cell.isMine) {
+                cell.isFlagged = false
+                cell.isReveled = true
+            }
+        }
+    }
+
+    showBoard()
+}
+
 function checkGameEnd(i, j) {
-    if (board[i][j].isMine) {
+    if (board[i][j].isMine || revealedCount == n*n - mineCount) {
         table.removeEventListener("click", handleClick)
         table.removeEventListener("contextmenu", handleFlag)
-    } else if (revealedCount == n*n - mineCount) {
-        table.removeEventListener("click", handleClick)
-        table.removeEventListener("contextmenu", handleFlag)
+        handleWin()
+        if (board[i][j].isMine) {
+            console.log(board[i][j]);
+            const audio = document.createElement('audio')
+            audio.src = "./audio/hang.mp3"
+            audio.volume = 1
+            audio.play()
+
+            table.rows[i].cells[j] .style.backgroundColor = "red"
+        }
     }
 }
 

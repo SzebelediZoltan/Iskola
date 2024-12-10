@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\t_Szabo Daniel\\12cb AAF 1 csop\\2024_11_20_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59117AB-5CED-499F-97F8-F57C0F3CC622}|2024_11_20_LINQ\\2024_11_20_LINQ.csproj|k:\\t_szabo daniel\\12cb aaf 1 csop\\2024_11_20_linq\\2024_11_20_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59117AB-5CED-499F-97F8-F57C0F3CC622}|2024_11_20_LINQ\\2024_11_20_LINQ.csproj|solutionrelative:2024_11_20_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\t_Szabo Daniel\\12cb AAF 1 csop\\2024_11_20_LINQ\\2024_11_20_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "2024_11_20_LINQ\\Program.cs",
+              "ToolTip": "K:\\t_Szabo Daniel\\12cb AAF 1 csop\\2024_11_20_LINQ\\2024_11_20_LINQ\\Program.cs",
+              "RelativeToolTip": "2024_11_20_LINQ\\Program.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:48:22.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

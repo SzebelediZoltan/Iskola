@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\AAF\\2024_11_13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|H:\\Iskola\\DANIEL\\AAF\\2024_11_13\\2024_11_13\\dolgozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|h:\\iskola\\daniel\\aaf\\2024_11_13\\2024_11_13\\dolgozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|solutionrelative:2024_11_13\\dolgozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|h:\\iskola\\daniel\\aaf\\2024_11_13\\2024_11_13\\vezeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|H:\\Iskola\\DANIEL\\AAF\\2024_11_13\\2024_11_13\\vezeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78BF9925-A29B-439B-9ABD-F334EF8BA54B}|2024_11_13\\2024_11_13.csproj|solutionrelative:2024_11_13\\vezeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,8 +66,7 @@
               "RelativeToolTip": "2024_11_13\\vezeto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:19:23.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T07:19:23.469Z"
             },
             {
               "$type": "Document",

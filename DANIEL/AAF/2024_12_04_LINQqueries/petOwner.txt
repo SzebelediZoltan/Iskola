@@ -1,0 +1,13 @@
+class PetOwner
+{
+    public string Name { get; set; }
+    public List<String> Pets { get; set; }
+}
+
+PetOwner[] petOwners =
+{ new PetOwner { Name="Higa, Sidney",
+      Pets = new List<string>{ "Scruffy", "Sam" } },
+  new PetOwner { Name="Ashkenazi, Ronen",
+      Pets = new List<string>{ "Walker", "Sugar" } },
+  new PetOwner { Name="Price, Vernette",
+      Pets = new List<string>{ "Scratches", "Diesel" } } };

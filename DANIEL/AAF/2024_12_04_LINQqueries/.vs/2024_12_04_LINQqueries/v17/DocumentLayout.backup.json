@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\AAF\\2024_12_04_LINQqueries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F64DC9-3779-4CBD-B442-4C77C65762DE}|2024_12_04_LINQqueries\\2024_12_04_LINQqueries.csproj|h:\\iskola\\daniel\\aaf\\2024_12_04_linqqueries\\2024_12_04_linqqueries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F64DC9-3779-4CBD-B442-4C77C65762DE}|2024_12_04_LINQqueries\\2024_12_04_LINQqueries.csproj|solutionrelative:2024_12_04_linqqueries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\AAF\\2024_12_04_LINQqueries\\2024_12_04_LINQqueries\\Program.cs",
+              "RelativeDocumentMoniker": "2024_12_04_LINQqueries\\Program.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\AAF\\2024_12_04_LINQqueries\\2024_12_04_LINQqueries\\Program.cs*",
+              "RelativeToolTip": "2024_12_04_LINQqueries\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:40:15.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
