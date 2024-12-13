@@ -10,6 +10,9 @@ renderer.setSize(window.innerWidth,window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 export const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x9bf598)
+
+const grey = new THREE.Color(0xc9c9c9)
 
 export const camera = new THREE.PerspectiveCamera(
     75,
@@ -19,43 +22,30 @@ export const camera = new THREE.PerspectiveCamera(
 );
 const orbit = new OrbitControls(camera, renderer.domElement);
 
-const axesHelper = new THREE.AxesHelper(3);
-scene.add(axesHelper);
-
-const gridHelper = new THREE.GridHelper(30);
-scene.add(gridHelper);
-
 camera.position.set(1,1,30);
 orbit.update();
 
-
-// const boxGeometry = new THREE.BoxGeometry(5,5,5);
-// const boxMaterial = new THREE.MeshBasicMaterial({color: "red"});
-// const box = new THREE.Mesh(boxGeometry, boxMaterial);
-// scene.add(box);
-
-// const sphereGeometry = new THREE.SphereGeometry(2,20,20);
-// const sphereMaterial = new THREE.MeshBasicMaterial({
-// //const sphereMaterial = new THREE.MeshLambertMaterial({
-//     color: "blue"
-//     //wireframe: true
-// });
-// const sphere = new THREE.Mesh(sphereGeometry,sphereMaterial);
-// // sphere.position.x = -10;
-// // sphere.position.y = 10;
-// sphere.position.set(-10,10,0);
-// scene.add(sphere);
-
 const planeGeometry = new THREE.PlaneGeometry(30,30);
-//const planeMatrial = new THREE.MeshBasicMaterial({color: "white"});
-const planeMatrial = new THREE.MeshStandardMaterial({color: "white"});
+const planeMatrial = new THREE.MeshBasicMaterial({color: "darkgrey"});
 const plane = new THREE.Mesh(planeGeometry, planeMatrial);
 plane.rotation.x = -0.5*Math.PI;
 
-plane.receiveShadow = true;
-
 scene.add(plane);
 
+function falakHozzadasa() {
+    for (let i = 0; i < 4; i++) {
+        const falGeometry = new THREE.BoxGeometry(30, 10, 2)
+        const falMaterial = new THREE.MeshBasicMaterial({color: grey})
+        const fal = new THREE.Mesh(falGeometry, falMaterial)
+        fal.position.set(0, 5, 14)
+        scene.add(fal)
+    }
+}
 
-//renderer.render(scene, camera);
+falakHozzadasa()
 
+
+function animate(){
+    renderer.render(scene,camera);
+}
+renderer.setAnimationLoop(animate);
