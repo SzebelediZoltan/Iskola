@@ -1,0 +1,17 @@
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\bin\Debug\net8.0-windows\Administracios.exe
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\bin\Debug\net8.0-windows\Administracios.deps.json
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\bin\Debug\net8.0-windows\Administracios.runtimeconfig.json
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\bin\Debug\net8.0-windows\Administracios.dll
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\bin\Debug\net8.0-windows\Administracios.pdb
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.Form1.resources
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.csproj.GenerateResource.cache
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.GeneratedMSBuildEditorConfig.editorconfig
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.AssemblyInfoInputs.cache
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.AssemblyInfo.cs
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.sourcelink.json
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.dll
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\refint\Administracios.dll
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.pdb
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\Administracios.genruntimeconfig.cache
+H:\Iskola\DANIEL\AAF\Administracios\Administracios\obj\Debug\net8.0-windows\ref\Administracios.dll

@@ -1,0 +1,7 @@
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\bin\Debug\Mukori.exe.config
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\bin\Debug\Mukori.exe
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\bin\Debug\Mukori.pdb
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\obj\Debug\Mukori.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\obj\Debug\Mukori.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\obj\Debug\Mukori.exe
+H:\Iskola\DANIEL\AAF\Mukori\Mukori\obj\Debug\Mukori.pdb

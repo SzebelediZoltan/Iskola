@@ -1,0 +1,14 @@
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.exe.config
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.exe
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.pdb
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.exe
+H:\2024-2025\12.cb AAF 1csop\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.pdb
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.exe.config
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.exe
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\bin\Debug\2024_12_10_Valasztas.pdb
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.exe
+H:\Iskola\DANIEL\AAF\2024_12_10_Valasztas\2024_12_10_Valasztas\obj\Debug\2024_12_10_Valasztas.pdb
