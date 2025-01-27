@@ -26,22 +26,93 @@ camera.position.set(1,1,30);
 orbit.update();
 
 const planeGeometry = new THREE.PlaneGeometry(30,30);
-const planeMatrial = new THREE.MeshBasicMaterial({color: "darkgrey"});
+const planeMatrial = new THREE.MeshStandardMaterial({color: "darkgrey"});
 const plane = new THREE.Mesh(planeGeometry, planeMatrial);
+plane.receiveShadow = true
 plane.rotation.x = -0.5*Math.PI;
 
+const light = new THREE.PointLight( 0xffffff, 1, 100 );
+light.position.set( 0, 10, 4 );
+light.castShadow = true; // default false
+scene.add( light );
+
+const helper = new THREE.CameraHelper( light.shadow.camera );
+scene.add( helper );
+
 scene.add(plane);
+function bastyakHozzadasa() {
+    for (let i = 0; i < 4; i++) {
+        const bastyaGeometry = new THREE.CylinderGeometry(1.5, 1.5, 16, 32)
+        const bastyaMaterial = new THREE.MeshStandardMaterial({color: "grey"})
+        const bastya = new THREE.Mesh(bastyaGeometry, bastyaMaterial)
+        bastya.castShadow = true
+        bastya.receiveShadow = true
+        
+        const edges = new THREE.EdgesGeometry(bastyaGeometry)
+        const line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial({color: "white"}))
+        
+        const group = new THREE.Group()
+        group.add(bastya)
+        group.add(line)
+        
+        bastya.position.set(16.5, 8, 16.5)
+        line.position.set(16.5,8,16.5)
+        
+        group.rotation.y = Math.PI * (0.5 * i)
+        scene.add(group)
+        
+    }
+}
 
 function falakHozzadasa() {
     for (let i = 0; i < 4; i++) {
         const falGeometry = new THREE.BoxGeometry(30, 10, 2)
-        const falMaterial = new THREE.MeshBasicMaterial({color: grey})
+        const falMaterial = new THREE.MeshStandardMaterial({color: grey})
         const fal = new THREE.Mesh(falGeometry, falMaterial)
-        fal.position.set(0, 5, 14)
-        scene.add(fal)
+        fal.castShadow = true
+        fal.receiveShadow = true
+        
+        const edges = new THREE.EdgesGeometry( falGeometry ); 
+        const line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial( { color: "white" } ) )
+        
+        line.position.set(0 , 5, 16)
+        fal.position.set(0, 5, 16)
+        
+        const group = new THREE.Group()
+        group.add(fal)
+        group.add(line)
+        
+        group.rotation.y = Math.PI * (0.5 * i)
+        scene.add(group)
     }
 }
 
+function tetoHozzadasa() {
+    for (let i = 0; i < 4; i++) {
+        const tetoGeometry = new THREE.ConeGeometry(3, 5, 32)
+        const tetoMaterial = new THREE.MeshStandardMaterial({color: "lightgrey"})
+        const teto = new THREE.Mesh(tetoGeometry, tetoMaterial)
+        teto.castShadow = true
+        teto.receiveShadow = true
+        
+        const edges = new THREE.EdgesGeometry( tetoGeometry ); 
+        const line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial( { color: "white" } ) )
+        
+        const group = new THREE.Group()
+        group.add(teto)
+        group.add(line)
+        
+        teto.position.set(16.5, 18, 16.5)
+        line.position.set(16.5, 18, 16.5)
+    
+        group.rotation.y = Math.PI * (0.5 * i)
+    
+        scene.add(group)
+    }
+}
+
+tetoHozzadasa()
+bastyakHozzadasa()
 falakHozzadasa()
 
 
