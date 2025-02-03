@@ -1,0 +1,17 @@
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\bin\Debug\net8.0-windows\Adatokbetoltese.exe
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\bin\Debug\net8.0-windows\Adatokbetoltese.deps.json
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\bin\Debug\net8.0-windows\Adatokbetoltese.runtimeconfig.json
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\bin\Debug\net8.0-windows\Adatokbetoltese.dll
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\bin\Debug\net8.0-windows\Adatokbetoltese.pdb
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.Form1.resources
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.csproj.GenerateResource.cache
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.GeneratedMSBuildEditorConfig.editorconfig
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.AssemblyInfoInputs.cache
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.AssemblyInfo.cs
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.sourcelink.json
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.dll
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\refint\Adatokbetoltese.dll
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.pdb
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\Adatokbetoltese.genruntimeconfig.cache
+H:\Iskola\DANIEL\AAF\Adatokbetoltese\Adatokbetoltese\obj\Debug\net8.0-windows\ref\Adatokbetoltese.dll

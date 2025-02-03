@@ -1,0 +1,20 @@
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.exe.config
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.exe
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.pdb
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\_2025_01_28_DatagridView.Form1.resources
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\_2025_01_28_DatagridView.Properties.Resources.resources
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.GenerateResource.cache
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.exe
+H:\2024-2025\12.cb AAF 1csop\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.pdb
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.exe.config
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.exe
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\bin\Debug\2025_01_28 DatagridView.pdb
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\_2025_01_28_DatagridView.Form1.resources
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\_2025_01_28_DatagridView.Properties.Resources.resources
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.GenerateResource.cache
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.exe
+H:\Iskola\DANIEL\AAF\2025_01_28 DatagridView\2025_01_28 DatagridView\obj\Debug\2025_01_28 DatagridView.pdb
