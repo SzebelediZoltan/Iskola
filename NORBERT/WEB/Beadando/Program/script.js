@@ -59,11 +59,15 @@ function placeBunny() {
     bunny.y = randomInt(0, m-1)
     
     showTable()
+    console.log("Lepes");
+    
 
     return false
 }
 
 function level(actLevel) {
+
+
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             reject(actLevel)
@@ -71,35 +75,47 @@ function level(actLevel) {
         
         intID =
         setInterval(() => {
+            console.log(Math.round((Date.now() - startTime)/1000));
+            
             if (placeBunny()) {
-                console.log("lepett");
-                
+                console.log("Elkapta");      
                 resolve(12)
             }
-            
         }, 1000);
     });
 }
 
-function handWin() {
-    console.log("Nyertel!");
+function handleEnd() {
+    console.log("Vege");
+    window.removeEventListener("keydown", handleControls)
+    fox.x =-1
+    fox.y= -1
+    showTable()
 }
 
+let startTime = 0
+
 function jatek() {
+    startTime = Date.now();
+        
     placeBF()
     level(actLevel)
         .then(time => {
+            clearInterval(intID)
             if (actLevel == 3) {
-                handWin()
+                console.log("Win");
+                
+                handleEnd()
             } else {
+                console.log("Tovabb");
                 actLevel++
-                clearInterval(intID)
                 jatek()
             }
         })
         .catch(endLevel => {
-            console.log("Vesztettel");
             clearInterval(intID)
+            console.log("Lose");
+            handleEnd()
         })
 }
 
