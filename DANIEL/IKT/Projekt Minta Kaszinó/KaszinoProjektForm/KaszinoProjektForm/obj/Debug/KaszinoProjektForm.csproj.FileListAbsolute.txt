@@ -1,0 +1,14 @@
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjektForm.exe.config
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjektForm.exe
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjektForm.pdb
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjekt.exe
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjekt.pdb
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\bin\Debug\KaszinoProjekt.exe.config
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.Form1.resources
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.Properties.Resources.resources
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.csproj.GenerateResource.cache
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoP.C3891023.Up2Date
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.exe
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektForm\KaszinoProjektForm\obj\Debug\KaszinoProjektForm.pdb

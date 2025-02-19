@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|h:\\2024-2025\\12.cb ipii 1csop\\projekt minta kaszin\u00F3\\kaszinoprojekt\\kaszinoprojekt\\asztal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\asztal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\rulett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\rulett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\jatekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\jatekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\ijatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\ijatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jatekos.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Jatekos.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\Jatekos.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Jatekos.cs",
+              "RelativeToolTip": "KaszinoProjekt\\Jatekos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:29:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asztal.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Asztal.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\Asztal.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Asztal.cs",
+              "RelativeToolTip": "KaszinoProjekt\\Asztal.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:22:29.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rulett.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Rulett.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\Rulett.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Rulett.cs",
+              "RelativeToolTip": "KaszinoProjekt\\Rulett.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:59:12.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jatek.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Jatek.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\Jatek.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Jatek.cs",
+              "RelativeToolTip": "KaszinoProjekt\\Jatek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:11:51.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJatek.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\IJatek.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\IJatek.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\IJatek.cs",
+              "RelativeToolTip": "KaszinoProjekt\\IJatek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:02:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "KaszinoProjekt\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 1csop\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Program.cs*",
+              "RelativeToolTip": "KaszinoProjekt\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:01:31.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

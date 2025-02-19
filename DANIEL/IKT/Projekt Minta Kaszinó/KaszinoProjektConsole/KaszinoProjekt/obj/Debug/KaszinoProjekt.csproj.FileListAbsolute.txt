@@ -1,0 +1,21 @@
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe.config
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\bin\Debug\KaszinoProjekt.pdb
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\obj\Debug\KaszinoProjekt.exe
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjekt\KaszinoProjekt\obj\Debug\KaszinoProjekt.pdb
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe.config
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.pdb
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.exe
+H:\2024-2025\12.cb IPII 1csop\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.pdb
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe.config
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.exe
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\bin\Debug\KaszinoProjekt.pdb
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.exe
+H:\Iskola\DANIEL\IKT\Projekt Minta Kaszinó\KaszinoProjektConsole\KaszinoProjekt\obj\Debug\KaszinoProjekt.pdb

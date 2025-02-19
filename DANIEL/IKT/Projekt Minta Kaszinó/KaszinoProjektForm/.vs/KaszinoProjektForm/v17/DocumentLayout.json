@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|h:\\iskola\\daniel\\ikt\\projekt minta kaszin\u00F3\\kaszinoprojektform\\kaszinoprojektform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|solutionrelative:kaszinoprojektform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\kaszinoprojektform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|solutionrelative:kaszinoprojektform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|h:\\iskola\\daniel\\ikt\\projekt minta kaszin\u00F3\\kaszinoprojektform\\kaszinoprojektform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1330AC59-F193-4464-8F5C-58DA31D9CB2E}|KaszinoProjektForm\\KaszinoProjektForm.csproj|solutionrelative:kaszinoprojektform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KaszinoProjektForm\\Form1.Designer.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.Designer.cs",
+              "RelativeToolTip": "KaszinoProjektForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwFAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:19:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.cs",
+              "RelativeDocumentMoniker": "KaszinoProjektForm\\Form1.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.cs*",
+              "RelativeToolTip": "KaszinoProjektForm\\Form1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:05:30.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.cs",
+              "RelativeDocumentMoniker": "KaszinoProjektForm\\Form1.cs",
+              "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjektForm\\KaszinoProjektForm\\Form1.cs [Design]*",
+              "RelativeToolTip": "KaszinoProjektForm\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:05:05.038Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

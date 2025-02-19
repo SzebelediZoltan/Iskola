@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaszinoProjektForm", "KaszinoProjektForm\KaszinoProjektForm.csproj", "{1330AC59-F193-4464-8F5C-58DA31D9CB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaszinoProjekt", "..\KaszinoProjektConsole\KaszinoProjekt\KaszinoProjekt.csproj", "{29323C41-7E54-4938-AC1A-C2D613326268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1330AC59-F193-4464-8F5C-58DA31D9CB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1330AC59-F193-4464-8F5C-58DA31D9CB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1330AC59-F193-4464-8F5C-58DA31D9CB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1330AC59-F193-4464-8F5C-58DA31D9CB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29323C41-7E54-4938-AC1A-C2D613326268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29323C41-7E54-4938-AC1A-C2D613326268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29323C41-7E54-4938-AC1A-C2D613326268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29323C41-7E54-4938-AC1A-C2D613326268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD8C45AB-E466-4844-8D8D-6467AF7B9420}
+	EndGlobalSection
+EndGlobal

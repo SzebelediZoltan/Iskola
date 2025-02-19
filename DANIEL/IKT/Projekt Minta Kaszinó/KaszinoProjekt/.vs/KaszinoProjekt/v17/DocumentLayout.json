@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\asztal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|h:\\iskola\\daniel\\ikt\\projekt minta kaszin\u00F3\\kaszinoprojekt\\kaszinoprojekt\\rulett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\kaszinoprojekt\\rulett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29323C41-7E54-4938-AC1A-C2D613326268}|KaszinoProjekt\\KaszinoProjekt.csproj|solutionrelative:kaszinoprojekt\\rulett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,8 +34,7 @@
               "RelativeToolTip": "KaszinoProjekt\\Rulett.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:16:36.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:16:36.78Z"
             },
             {
               "$type": "Document",
@@ -41,7 +44,7 @@
               "RelativeDocumentMoniker": "KaszinoProjekt\\Asztal.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Projekt Minta Kaszin\u00F3\\KaszinoProjekt\\KaszinoProjekt\\Asztal.cs",
               "RelativeToolTip": "KaszinoProjekt\\Asztal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T09:02:51.438Z",
               "EditorCaption": ""
