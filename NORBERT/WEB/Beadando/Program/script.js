@@ -1,9 +1,15 @@
 const bunny = {x: 0, y: 0}
 const fox = {x: 0, y: 0 }
-let n = 8
-let m = 5
+const n = 8
+const m = 5
 let actLevel = 1
 let intID
+
+const button = document.querySelector("#start")
+button.addEventListener("click", start)
+
+const szint = document.querySelector("#szint")
+let startTime
 
 function randomInt(a, b) {
     return Math.floor(Math.random() * (b-a+1)) + a
@@ -59,56 +65,75 @@ function placeBunny() {
     bunny.y = randomInt(0, m-1)
     
     showTable()
-
+    
     return false
 }
 
-function level(actLevel) {
+function writeStats() {
+    startTime = Date.now();
+    const div = document.createElement("div")
+    div.innerHTML = "<p>Aktuális szint: " + actLevel + "</p><p id=ido"+ actLevel +">Idő: 0"
+
+    szint.appendChild(div)
+}
+
+function level() {
+    writeStats()
+
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             reject(actLevel)
-        }, 7000);
+        }, 8000);
         
         intID =
         setInterval(() => {
+            document.querySelector("#ido"+ actLevel).innerText = "Idő: "+ Math.round((Date.now() - startTime)/1000)
+
             if (placeBunny()) {
-                console.log("lepett");
-                
                 resolve(12)
             }
-            
         }, 1000);
     });
 }
 
-function handWin() {
-    console.log("Nyertel!");
+function handleEnd() {
+    window.removeEventListener("keydown", handleControls)
+    fox.x =-1
+    fox.y= -1
+    button.disabled = false
+    showTable()
 }
 
 function jatek() {
     placeBF()
-    level(actLevel)
+        
+    level()
         .then(time => {
+            clearInterval(intID)
             if (actLevel == 3) {
-                handWin()
+                console.log("Win");
+                
+                handleEnd()
             } else {
                 actLevel++
-                clearInterval(intID)
                 jatek()
             }
         })
         .catch(endLevel => {
-            console.log("Vesztettel");
             clearInterval(intID)
+            console.log("Lose");
+            handleEnd()
         })
+}
+
+function reset() {
+    szint.innerHTML = ""
+    actLevel = 1
 }
 
 function start() {
     button.disabled = true
-    placeBF()
     window.addEventListener("keydown", handleControls)
+    reset()
     jatek()
 }
-
-const button = document.querySelector("#start")
-button.addEventListener("click", start)
