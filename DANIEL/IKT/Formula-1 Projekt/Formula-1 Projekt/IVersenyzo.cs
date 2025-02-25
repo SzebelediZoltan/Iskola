@@ -10,6 +10,7 @@ namespace Formula_1_Projekt
     {
         void Atigazolas(Csapat honnan, Csapat hova);
         void Oregszik();
+        int gyozelmekSzama(List<Nagydij> nagydijak);
 
     }
 }

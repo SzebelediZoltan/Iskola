@@ -8,6 +8,7 @@ namespace Formula_1_Projekt
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 
 namespace Formula_1_Projekt
 {
@@ -10,6 +11,14 @@ namespace Formula_1_Projekt
     {
         public string nev, csapatnev;
         public int kor, magassag;
+
+        public Versenyzo(string[] sor)
+        {
+            nev = sor[0];
+            csapatnev = sor[1];
+            kor = Convert.ToInt32(sor[2]);
+            magassag = Convert.ToInt32(sor[3]);
+        }
 
         public void Atigazolas(Csapat honnan, Csapat hova)
         {
@@ -25,6 +34,11 @@ namespace Formula_1_Projekt
         public void Oregszik()
         {
             kor++;
+        }
+
+        public int gyozelmekSzama(List<Nagydij> nagydijak)
+        {
+            return nagydijak.Where(e => e.versenyzo.nev == nev && e.helyezes == 1).Count();
         }
     }
 }

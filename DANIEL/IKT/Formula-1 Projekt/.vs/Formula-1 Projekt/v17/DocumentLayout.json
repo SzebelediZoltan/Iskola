@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\nagydij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\nagydij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\nagydij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\formula-1 projekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|Formula-1 Projekt\\Formula-1 Projekt.csproj|solutionrelative:formula-1 projekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,85 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Adatkezeles.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Adatkezeles.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Adatkezeles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T07:31:21.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Nagydij.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Nagydij.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Nagydij.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:21:23.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T07:21:23.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Csapat.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Csapat.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Csapat.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Csapat.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Csapat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:59:40.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:59:40.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Versenyzo.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Versenyzo.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Versenyzo.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Versenyzo.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Versenyzo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:55:12.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:55:12.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Auto.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Auto.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Auto.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Auto.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Auto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:41:07.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:41:07.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IVersenyzo.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\IVersenyzo.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\IVersenyzo.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\IVersenyzo.cs",
               "RelativeToolTip": "Formula-1 Projekt\\IVersenyzo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:35:55.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:35:55.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IAuto.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\IAuto.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\IAuto.cs",
@@ -136,21 +131,19 @@
               "RelativeToolTip": "Formula-1 Projekt\\IAuto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:27:07.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:27:07.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Program.cs",
               "RelativeDocumentMoniker": "Formula-1 Projekt\\Program.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Program.cs",
               "RelativeToolTip": "Formula-1 Projekt\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T06:26:36.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T06:26:36.171Z"
             }
           ]
         }
