@@ -9,13 +9,12 @@ namespace Formula_1_Projekt
 {
     internal class Nagydij
     {
-        public string nev;
+        public string nev, ido;
         public double maxsebesseg, atlagsebesserg;
         public int helyezes, ev;
         public Csapat csapatnev;
         public Versenyzo versenyzo;
         public bool befejezteE;
-        public TimeSpan ido;
 
         public Nagydij(string[] sor)
         {
@@ -27,9 +26,10 @@ namespace Formula_1_Projekt
             csapatnev = Adatkezeles.csapatok.First(e => e.nev == sor[5]);
             versenyzo = Adatkezeles.versenyzok.First(e => e.nev == sor[6]);
             _ = sor[7] == "Igen" ? befejezteE = true : befejezteE = false;
+            ido = sor[8];
         }
 
-        public void idoKorrekcio(TimeSpan pontosIdo)
+        public void idoKorrekcio(string pontosIdo)
         {
             ido = pontosIdo;
         }

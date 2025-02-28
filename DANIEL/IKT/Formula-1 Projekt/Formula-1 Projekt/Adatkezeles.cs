@@ -43,13 +43,10 @@ namespace Formula_1_Projekt
         {
             StreamReader fr = new StreamReader(path);
 
-            while (!fr.EndOfStream)
-            {
-                BeolvasasKicsi(fr.ReadLine(), versenyzok);
-                BeolvasasKicsi(fr.ReadLine(), autok);
-                BeolvasasKicsi(fr.ReadLine(), csapatok);
-                BeolvasasKicsi(fr.ReadLine(), nagydijak);
-            }
+            BeolvasasKicsi(fr.ReadLine(), versenyzok);
+            BeolvasasKicsi(fr.ReadLine(), autok);
+            BeolvasasKicsi(fr.ReadLine(), csapatok);
+            BeolvasasKicsi(fr.ReadLine(), nagydijak);
         }
 
         private static void BeolvasasKicsi<T>(string path, List<T> lista)
