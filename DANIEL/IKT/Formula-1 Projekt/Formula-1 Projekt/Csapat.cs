@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Formula_1_Projekt
 {
-    internal class Csapat
+    public class Csapat
     {
         public string nev;
         public List<Auto> autok;
@@ -15,8 +15,8 @@ namespace Formula_1_Projekt
         public Csapat(string[] sor)
         {
             nev = sor[0];
-            autok = Adatkezeles.autok.Where(x => x.csapatnev == sor[1]).ToList();
-            versenyzok = Adatkezeles.versenyzok.Where(x => x.csapatnev == sor[2]).ToList();
+            autok = Adatkezeles.autok.Where(x => x.csapatnev == nev).ToList();
+            versenyzok = Adatkezeles.versenyzok.Where(x => x.csapatnev == nev).ToList();
         }
 
         public void Nevvaltas(string nev)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Formula_1_Projekt
 {
-    internal interface IVersenyzo
+    public interface IVersenyzo
     {
         void Atigazolas(Csapat honnan, Csapat hova);
         void Oregszik();

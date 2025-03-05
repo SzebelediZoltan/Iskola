@@ -7,7 +7,7 @@ using System.Web;
 
 namespace Formula_1_Projekt
 {
-    internal class Versenyzo : IVersenyzo
+    public class Versenyzo : IVersenyzo
     {
         public string nev, csapatnev;
         public int kor, magassag;

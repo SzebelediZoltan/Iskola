@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Formula_1_Projekt
 {
-    internal class Nagydij
+    public class Nagydij
     {
         public string nev, ido;
         public double maxsebesseg, atlagsebesserg;
@@ -18,13 +18,13 @@ namespace Formula_1_Projekt
 
         public Nagydij(string[] sor)
         {
-            nev = sor[0];
-            maxsebesseg = Convert.ToDouble(sor[1]);
-            atlagsebesserg = Convert.ToDouble(sor[2]);
-            helyezes = Convert.ToInt32(sor[3]);
-            ev = Convert.ToInt32(sor[4]);
-            csapatnev = Adatkezeles.csapatok.First(e => e.nev == sor[5]);
-            versenyzo = Adatkezeles.versenyzok.First(e => e.nev == sor[6]);
+            nev = sor[1];
+            maxsebesseg = Convert.ToDouble(sor[4]);
+            atlagsebesserg = Convert.ToDouble(sor[5]);
+            helyezes = Convert.ToInt32(sor[6]);
+            ev = Convert.ToInt32(sor[0]);
+            csapatnev = Adatkezeles.csapatok.First(e => e.nev == sor[3]);
+            versenyzo = Adatkezeles.versenyzok.First(e => e.nev == sor[2]);
             _ = sor[7] == "Igen" ? befejezteE = true : befejezteE = false;
             ido = sor[8];
         }

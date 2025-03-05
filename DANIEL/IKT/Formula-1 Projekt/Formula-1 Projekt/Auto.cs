@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Formula_1_Projekt
 {
-    internal class Auto : IAuto
+    public class Auto : IAuto
     {
         public string nev, motor, csapatnev;
         public int le, maxSebesseg;
@@ -19,7 +19,7 @@ namespace Formula_1_Projekt
             csapatnev = sor[2];
             le = Convert.ToInt32(sor[3]);
             maxSebesseg = Convert.ToInt32(sor[4]);
-            javitasAlatt = Convert.ToBoolean(sor[5]);
+            javitasAlatt = false;
         }
 
         public void Autofejlesztes(int le)

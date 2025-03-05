@@ -1,2 +1,1 @@
-const APIKEY = "8835d19a97bf43f98f5102129252802"
-
+document.querySelector("button").addEventListener("click", async () => {console.log((await (await fetch("http://api.weatherapi.com/v1/current.json?key=8835d19a97bf43f98f5102129252802&q="+document.querySelector("input").value)).json()))});

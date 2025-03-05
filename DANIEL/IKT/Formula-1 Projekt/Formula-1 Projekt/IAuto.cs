@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Formula_1_Projekt
 {
-    internal interface IAuto
+    public interface IAuto
     {
         void Autofejlesztes(int le);
         void Javitas();

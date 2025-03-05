@@ -1,0 +1,10 @@
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\bin\Debug\Fomrula-1 Projekt Form.exe.config
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\bin\Debug\Fomrula-1 Projekt Form.exe
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\bin\Debug\Fomrula-1 Projekt Form.pdb
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula-1 Projekt Form.csproj.AssemblyReference.cache
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula_1_Projekt_Form.Form1.resources
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula_1_Projekt_Form.Properties.Resources.resources
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula-1 Projekt Form.csproj.GenerateResource.cache
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula-1 Projekt Form.csproj.CoreCompileInputs.cache
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula-1 Projekt Form.exe
+H:\12\SzabDan\goon together\Fomrula-1 Projekt Form\Fomrula-1 Projekt Form\obj\Debug\Fomrula-1 Projekt Form.pdb

@@ -7,12 +7,12 @@ using System.IO;
 
 namespace Formula_1_Projekt
 {
-    internal class Adatkezeles
+    public class Adatkezeles
     {
-        public static List<Versenyzo> versenyzok;
-        public static List<Auto> autok;
-        public static List<Csapat> csapatok;
-        public static List<Nagydij> nagydijak;
+        public static List<Versenyzo> versenyzok = new List<Versenyzo>();
+        public static List<Auto> autok = new List<Auto>();
+        public static List<Csapat> csapatok = new List<Csapat>();
+        public static List<Nagydij> nagydijak = new List<Nagydij>();
 
         public static List<Nagydij> szezon(List<Nagydij> nagydijak, int ev)
         {
@@ -47,6 +47,8 @@ namespace Formula_1_Projekt
             BeolvasasKicsi(fr.ReadLine(), autok);
             BeolvasasKicsi(fr.ReadLine(), csapatok);
             BeolvasasKicsi(fr.ReadLine(), nagydijak);
+
+            fr.Close();
         }
 
         private static void BeolvasasKicsi<T>(string path, List<T> lista)
@@ -54,11 +56,12 @@ namespace Formula_1_Projekt
             StreamReader file = new StreamReader(path);
             while (!file.EndOfStream)
             {
-                string[] parts = file.ReadLine().Split(';');
-                T item = (T)Activator.CreateInstance(typeof(T), new object[] { parts });
+                object[] args = new object[] { file.ReadLine().Split(';') };
+                T item = (T)Activator.CreateInstance(typeof(T), args);
 
                 lista.Add(item);
             }
+            file.Close();
         }
 
     }

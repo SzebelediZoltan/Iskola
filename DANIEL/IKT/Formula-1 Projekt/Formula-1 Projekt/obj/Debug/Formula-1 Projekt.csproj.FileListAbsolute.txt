@@ -1,0 +1,7 @@
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.exe.config
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.exe
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.pdb
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.csproj.AssemblyReference.cache
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.csproj.CoreCompileInputs.cache
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.exe
+H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.pdb

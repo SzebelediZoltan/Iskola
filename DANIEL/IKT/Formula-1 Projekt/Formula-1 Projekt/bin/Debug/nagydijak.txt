@@ -1,0 +1,116 @@
+2022;Bahreini Nagydíj;Lewis Hamilton;Mercedes;335;210;1;Igen;1:32:15
+2022;Bahreini Nagydíj;Max Verstappen;Red Bull Racing;333;209;2;Igen;1:32:30
+2022;Bahreini Nagydíj;Charles Leclerc;Ferrari;332;208;3;Igen;1:32:45
+2022;Bahreini Nagydíj;Lando Norris;McLaren;330;207;4;Igen;1:33:00
+2022;Bahreini Nagydíj;George Russell;Mercedes;329;206;5;Igen;1:33:15
+2022;Bahreini Nagydíj;Carlos Sainz;Ferrari;328;205;6;Igen;1:33:30
+2022;Bahreini Nagydíj;Sergio Pérez;Red Bull Racing;327;204;7;Igen;1:33:45
+2022;Bahreini Nagydíj;Fernando Alonso;Aston Martin;326;203;8;Igen;1:34:00
+2022;Bahreini Nagydíj;Oscar Piastri;McLaren;325;202;9;Igen;1:34:15
+2022;Bahreini Nagydíj;Esteban Ocon;Alpine;324;201;10;Igen;1:34:30
+2022;Bahreini Nagydíj;Pierre Gasly;Alpine;323;200;11;Igen;1:34:45
+2022;Bahreini Nagydíj;Lance Stroll;Aston Martin;322;199;12;Igen;1:35:00
+2022;Bahreini Nagydíj;Kevin Magnussen;Haas;321;198;13;Igen;1:35:15
+2022;Bahreini Nagydíj;Nico Hülkenberg;Haas;320;197;14;Igen;1:35:30
+2022;Bahreini Nagydíj;Valtteri Bottas;Alfa Romeo;319;196;15;Igen;1:35:45
+2022;Bahreini Nagydíj;Zhou Guanyu;Alfa Romeo;318;195;16;Igen;1:36:00
+2022;Bahreini Nagydíj;Yuki Tsunoda;AlphaTauri;317;194;17;Igen;1:36:15
+2022;Bahreini Nagydíj;Daniel Ricciardo;AlphaTauri;316;193;18;Igen;1:36:30
+2022;Bahreini Nagydíj;Alexander Albon;Williams;315;192;19;Igen;1:36:45
+2022;Bahreini Nagydíj;Logan Sargeant;Williams;314;191;20;Nem;NA
+2022;Monacói Nagydíj;Charles Leclerc;Ferrari;290;160;1;Igen;1:45:30
+2022;Monacói Nagydíj;Carlos Sainz;Ferrari;289;159;2;Igen;1:45:45
+2022;Monacói Nagydíj;Lewis Hamilton;Mercedes;288;158;3;Igen;1:46:00
+2022;Monacói Nagydíj;Max Verstappen;Red Bull Racing;287;157;4;Igen;1:46:15
+2022;Monacói Nagydíj;Sergio Pérez;Red Bull Racing;286;156;5;Igen;1:46:30
+2022;Monacói Nagydíj;George Russell;Mercedes;285;155;6;Igen;1:46:45
+2022;Monacói Nagydíj;Lando Norris;McLaren;284;154;7;Igen;1:47:00
+2022;Monacói Nagydíj;Fernando Alonso;Aston Martin;283;153;8;Igen;1:47:15
+2022;Monacói Nagydíj;Esteban Ocon;Alpine;282;152;9;Igen;1:47:30
+2022;Monacói Nagydíj;Pierre Gasly;Alpine;281;151;10;Igen;1:47:45
+2022;Monacói Nagydíj;Kevin Magnussen;Haas;280;150;11;Igen;1:48:00
+2022;Monacói Nagydíj;Nico Hülkenberg;Haas;279;149;12;Igen;1:48:15
+2022;Monacói Nagydíj;Valtteri Bottas;Alfa Romeo;278;148;13;Igen;1:48:30
+2022;Monacói Nagydíj;Zhou Guanyu;Alfa Romeo;277;147;14;Igen;1:48:45
+2022;Monacói Nagydíj;Lance Stroll;Aston Martin;276;146;15;Igen;1:49:00
+2022;Monacói Nagydíj;Oscar Piastri;McLaren;275;145;16;Igen;1:49:15
+2022;Brit Nagydíj;Lewis Hamilton;Mercedes;340;212;1;Igen;1:29:45
+2022;Brit Nagydíj;Max Verstappen;Red Bull Racing;338;211;2;Igen;1:30:00
+2022;Brit Nagydíj;Charles Leclerc;Ferrari;337;210;3;Igen;1:30:15
+2022;Brit Nagydíj;Sergio Pérez;Red Bull Racing;336;209;4;Igen;1:30:30
+2022;Brit Nagydíj;George Russell;Mercedes;335;208;5;Igen;1:30:45
+2022;Brit Nagydíj;Carlos Sainz;Ferrari;334;207;6;Igen;1:31:00
+2022;Brit Nagydíj;Lando Norris;McLaren;333;206;7;Igen;1:31:15
+2022;Brit Nagydíj;Fernando Alonso;Aston Martin;332;205;8;Igen;1:31:30
+2022;Brit Nagydíj;Oscar Piastri;McLaren;331;204;9;Igen;1:31:45
+2022;Brit Nagydíj;Esteban Ocon;Alpine;330;203;10;Igen;1:32:00
+2022;Brit Nagydíj;Pierre Gasly;Alpine;329;202;11;Igen;1:32:15
+2022;Brit Nagydíj;Lance Stroll;Aston Martin;328;201;12;Igen;1:32:30
+2023;Bahreini Nagydíj;Max Verstappen;Red Bull Racing;338;216;1;Igen;1:25:45
+2023;Bahreini Nagydíj;Sergio Pérez;Red Bull Racing;336;214;2;Igen;1:26:00
+2023;Bahreini Nagydíj;Fernando Alonso;Aston Martin;334;213;3;Igen;1:26:15
+2023;Bahreini Nagydíj;Carlos Sainz;Ferrari;332;211;4;Igen;1:26:30
+2023;Bahreini Nagydíj;Lewis Hamilton;Mercedes;331;210;5;Igen;1:26:45
+2023;Bahreini Nagydíj;Lance Stroll;Aston Martin;330;209;6;Igen;1:27:00
+2023;Bahreini Nagydíj;George Russell;Mercedes;329;208;7;Igen;1:27:15
+2023;Bahreini Nagydíj;Valtteri Bottas;Alfa Romeo;328;207;8;Igen;1:27:30
+2023;Bahreini Nagydíj;Esteban Ocon;Alpine;327;206;9;Igen;1:27:45
+2023;Bahreini Nagydíj;Pierre Gasly;Alpine;326;205;10;Igen;1:28:00
+2023;Bahreini Nagydíj;Alexander Albon;Williams;325;204;11;Igen;1:28:15
+2023;Bahreini Nagydíj;Yuki Tsunoda;AlphaTauri;324;203;12;Igen;1:28:30
+2023;Bahreini Nagydíj;Logan Sargeant;Williams;323;202;13;Igen;1:28:45
+2023;Bahreini Nagydíj;Kevin Magnussen;Haas;322;201;14;Igen;1:29:00
+2023;Bahreini Nagydíj;Nyck de Vries;AlphaTauri;321;200;15;Igen;1:29:15
+2023;Bahreini Nagydíj;Nico Hülkenberg;Haas;320;199;16;Igen;1:29:30
+2023;Brit Nagydíj;Lewis Hamilton;Mercedes;342;215;1;Igen;1:28:45
+2023;Brit Nagydíj;Max Verstappen;Red Bull Racing;340;213;2;Igen;1:29:00
+2023;Brit Nagydíj;Charles Leclerc;Ferrari;339;212;3;Igen;1:29:15
+2023;Brit Nagydíj;Sergio Pérez;Red Bull Racing;337;211;4;Igen;1:29:30
+2023;Brit Nagydíj;George Russell;Mercedes;336;210;5;Igen;1:29:45
+2023;Brit Nagydíj;Carlos Sainz;Ferrari;335;209;6;Igen;1:30:00
+2023;Brit Nagydíj;Lando Norris;McLaren;334;208;7;Igen;1:30:15
+2023;Brit Nagydíj;Fernando Alonso;Aston Martin;333;207;8;Igen;1:30:30
+2023;Brit Nagydíj;Oscar Piastri;McLaren;332;206;9;Igen;1:30:45
+2023;Brit Nagydíj;Esteban Ocon;Alpine;331;205;10;Igen;1:31:00
+2023;Brit Nagydíj;Pierre Gasly;Alpine;330;204;11;Igen;1:31:15
+2023;Brit Nagydíj;Lance Stroll;Aston Martin;329;203;12;Igen;1:31:30
+2023;Monacói Nagydíj;Charles Leclerc;Ferrari;290;160;1;Igen;1:45:30
+2023;Monacói Nagydíj;Carlos Sainz;Ferrari;289;159;2;Igen;1:45:45
+2023;Monacói Nagydíj;Lewis Hamilton;Mercedes;288;158;3;Igen;1:46:00
+2023;Monacói Nagydíj;Max Verstappen;Red Bull Racing;287;157;4;Igen;1:46:15
+2023;Monacói Nagydíj;Sergio Pérez;Red Bull Racing;286;156;5;Igen;1:46:30
+2023;Monacói Nagydíj;George Russell;Mercedes;285;155;6;Igen;1:46:45
+2023;Monacói Nagydíj;Lando Norris;McLaren;284;154;7;Igen;1:47:00
+2023;Monacói Nagydíj;Fernando Alonso;Aston Martin;283;153;8;Igen;1:47:15
+2023;Monacói Nagydíj;Esteban Ocon;Alpine;282;152;9;Igen;1:47:30
+2023;Monacói Nagydíj;Pierre Gasly;Alpine;281;151;10;Igen;1:47:45
+2024;Ausztrál Nagydíj;Lando Norris;McLaren;337;214;1;Igen;1:26:30
+2024;Ausztrál Nagydíj;Max Verstappen;Red Bull Racing;335;213;2;Igen;1:26:45
+2024;Ausztrál Nagydíj;Charles Leclerc;Ferrari;334;212;3;Igen;1:27:00
+2024;Ausztrál Nagydíj;Carlos Sainz;Ferrari;332;211;4;Igen;1:27:15
+2024;Ausztrál Nagydíj;Lewis Hamilton;Mercedes;331;210;5;Igen;1:27:30
+2024;Ausztrál Nagydíj;Sergio Pérez;Red Bull Racing;330;209;6;Igen;1:27:45
+2024;Ausztrál Nagydíj;Fernando Alonso;Aston Martin;329;208;7;Igen;1:28:00
+2024;Ausztrál Nagydíj;George Russell;Mercedes;328;207;8;Igen;1:28:15
+2024;Ausztrál Nagydíj;Esteban Ocon;Alpine;327;206;9;Igen;1:28:30
+2024;Ausztrál Nagydíj;Oscar Piastri;McLaren;326;205;10;Igen;1:28:45
+2024;Ausztrál Nagydíj;Pierre Gasly;Alpine;325;204;11;Igen;1:29:00
+2024;Ausztrál Nagydíj;Lance Stroll;Aston Martin;324;203;12;Igen;1:29:15
+2024;Ausztrál Nagydíj;Kevin Magnussen;Haas;323;202;13;Igen;1:29:30
+2024;Ausztrál Nagydíj;Nico Hülkenberg;Haas;322;201;14;Igen;1:29:45
+2024;Ausztrál Nagydíj;Valtteri Bottas;Alfa Romeo;321;200;15;Igen;1:30:00
+2024;Ausztrál Nagydíj;Zhou Guanyu;Alfa Romeo;320;199;16;Igen;1:30:15
+2024;Ausztrál Nagydíj;Yuki Tsunoda;AlphaTauri;319;198;17;Igen;1:30:30
+2024;Ausztrál Nagydíj;Daniel Ricciardo;AlphaTauri;318;197;18;Igen;1:30:45
+2024;Ausztrál Nagydíj;Alexander Albon;Williams;317;196;19;Nem;NA
+2024;Ausztrál Nagydíj;Logan Sargeant;Williams;316;195;20;Nem;NA
+2024;Japán Nagydíj;Max Verstappen;Red Bull Racing;345;220;1;Igen;1:21:30
+2024;Japán Nagydíj;Lando Norris;McLaren;343;218;2;Igen;1:21:45
+2024;Japán Nagydíj;Lewis Hamilton;Mercedes;341;217;3;Igen;1:22:00
+2024;Japán Nagydíj;Sergio Pérez;Red Bull Racing;339;216;4;Igen;1:22:15
+2024;Japán Nagydíj;George Russell;Mercedes;338;215;5;Igen;1:22:30
+2024;Japán Nagydíj;Fernando Alonso;Aston Martin;337;214;6;Igen;1:22:45
+2024;Japán Nagydíj;Charles Leclerc;Ferrari;336;213;7;Igen;1:23:00
+2024;Japán Nagydíj;Carlos Sainz;Ferrari;335;212;8;Igen;1:23:15
+2024;Japán Nagydíj;Oscar Piastri;McLaren;334;211;9;Igen;1:23:30
+2024;Japán Nagydíj;Esteban Ocon;Alpine;333;210;10;Igen;1:23:45

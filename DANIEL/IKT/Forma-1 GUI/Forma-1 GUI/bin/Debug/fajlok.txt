@@ -1,0 +1,4 @@
+versenyzok.txt
+autok.txt
+csapatok.txt
+nagydijak.txt
