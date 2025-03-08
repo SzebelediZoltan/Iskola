@@ -20,6 +20,13 @@ namespace Formula_1_Projekt
             magassag = Convert.ToInt32(sor[3]);
         }
 
+        public string Nev { get { return nev; } }
+        public string Csapatnev { get { return csapatnev; } }
+        public int Kor { get { return kor; } }
+        public int Magassag { get { return magassag; } }
+
+        public int GyozelmekSzama { get { return gyozelmekSzama(Adatkezeles.nagydijak); } }
+
         public void Atigazolas(Csapat honnan, Csapat hova)
         {
             honnan.versenyzok.Remove(this);

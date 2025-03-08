@@ -21,6 +21,12 @@ namespace Forma_1_GUI
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            dataGridView1.RowHeadersVisible = false;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.CellSelect;
+            dataGridView1.AllowUserToResizeColumns = false;
+            dataGridView1.AllowUserToResizeRows = false;
+            dataGridView1.MultiSelect = false;
         }
 
         private void GenerateHeader()
@@ -50,13 +56,13 @@ namespace Forma_1_GUI
         {
             var menuItem = sender as ToolStripMenuItem;
 
-            var ds = new BindingList<Nagydij>();
-            dataGridView1.DataSource = ds;
+            BindingList<Nagydij> ds = new BindingList<Nagydij>();
 
-            foreach ( Nagydij item in Adatkezeles.palyaKivalasztas(Adatkezeles.szezon(Adatkezeles.nagydijak, 2023), "Brit"))
+            foreach (Nagydij item in Adatkezeles.palyaKivalasztas(Adatkezeles.szezon(Adatkezeles.nagydijak, Convert.ToInt32(menuItem.OwnerItem.Text)), menuItem.Text))
             {
                 ds.Add(item);
             }
+            dataGridView1.DataSource = ds;
         }
 
         private void vilagositas(object sender, EventArgs e)
@@ -78,6 +84,27 @@ namespace Forma_1_GUI
                 Adatkezeles.BeolvasasNagy(openFileDialog1.FileName);
                 GenerateHeader();
             }
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+            if (dataGridView1.SelectedCells[0].OwningColumn.HeaderText == "Versenyzo")
+            {
+                NevKiir(Convert.ToString(dataGridView1.SelectedCells[0].Value));
+            }
+        }
+
+        private void NevKiir(string nev)
+        {
+            dataGridView2.RowHeadersVisible = false;
+            dataGridView2.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+
+            BindingList<Versenyzo> ds = new BindingList<Versenyzo>();
+
+            ds.Add(Adatkezeles.versenyzok.Find(x => x.nev == nev));
+
+            dataGridView2.DataSource = ds;
         }
     }
 }

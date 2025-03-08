@@ -41,6 +41,11 @@ namespace Formula_1_Projekt
 
         public static void BeolvasasNagy(string path)
         {
+            versenyzok.Clear();
+            autok.Clear();
+            csapatok.Clear();
+            nagydijak.Clear();
+
             StreamReader fr = new StreamReader(path);
 
             BeolvasasKicsi(fr.ReadLine(), versenyzok);

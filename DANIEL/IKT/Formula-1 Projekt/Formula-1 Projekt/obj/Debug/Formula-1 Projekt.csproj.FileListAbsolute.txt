@@ -5,3 +5,10 @@ H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Pro
 H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.csproj.CoreCompileInputs.cache
 H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.exe
 H:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.pdb
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.exe.config
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.exe
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\bin\Debug\Formula-1 Projekt.pdb
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.csproj.AssemblyReference.cache
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.csproj.CoreCompileInputs.cache
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.exe
+E:\Iskola\DANIEL\IKT\Formula-1 Projekt\Formula-1 Projekt\obj\Debug\Formula-1 Projekt.pdb

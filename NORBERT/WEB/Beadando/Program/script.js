@@ -90,7 +90,7 @@ function level() {
             document.querySelector("#ido"+ actLevel).innerText = "Idő: "+ Math.round((Date.now() - startTime)/1000)
 
             if (placeBunny()) {
-                resolve(12)
+                resolve( Math.round((Date.now() - startTime)/1000))
             }
         }, 1000);
     });

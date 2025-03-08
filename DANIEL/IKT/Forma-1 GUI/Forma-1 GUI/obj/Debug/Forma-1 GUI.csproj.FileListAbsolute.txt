@@ -36,3 +36,17 @@ H:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.csproj.CoreCo
 H:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 .1127DB67.Up2Date
 H:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.exe
 H:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.pdb
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Forma-1 GUI.exe.config
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Forma-1 GUI.exe
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Forma-1 GUI.pdb
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Formula-1 Projekt.exe
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Formula-1 Projekt.pdb
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\bin\Debug\Formula-1 Projekt.exe.config
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.csproj.AssemblyReference.cache
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma_1_GUI.Form1.resources
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma_1_GUI.Properties.Resources.resources
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.csproj.GenerateResource.cache
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.csproj.CoreCompileInputs.cache
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.csproj.CopyComplete
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.exe
+E:\Iskola\DANIEL\IKT\Forma-1 GUI\Forma-1 GUI\obj\Debug\Forma-1 GUI.pdb
