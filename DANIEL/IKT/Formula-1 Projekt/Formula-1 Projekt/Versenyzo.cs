@@ -21,7 +21,7 @@ namespace Formula_1_Projekt
         }
 
         public string Nev { get { return nev; } }
-        public string Csapatnev { get { return csapatnev; } }
+        public string Csapat { get { return csapatnev; } }
         public int Kor { get { return kor; } }
         public int Magassag { get { return magassag; } }
 

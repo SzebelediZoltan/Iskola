@@ -16,14 +16,14 @@ namespace Formula_1_Projekt
         public Versenyzo versenyzo;
         public bool befejezteE;
 
-        public string Nev { get { return nev; } }
-        public string Ido { get { return ido; } }
-        public double Maxsebesseg { get { return maxsebesseg; } }
-        public double Atlagsebesseg { get { return atlagsebesseg; } }
+        public string Nagydij_Nev { get { return nev; } }
+        public string Legjobb_Kör { get { return ido; } }
+        public double Max_Sebesseg { get { return maxsebesseg; } }
+        public double Atlag_Sebesseg { get { return atlagsebesseg; } }
         public int Helyezes { get { return helyezes; } }
-        public int Ev { get { return ev; } }
-        public string Csapatnev { get { return csapatnev.nev; } }
-        public string Versenyzo { get { return versenyzo.nev; } }
+        public int Szezon { get { return ev; } }
+        public string Csapat { get { return csapatnev.nev; } }
+        public string Pilota { get { return versenyzo.nev; } }
         public bool BefejezteE { get { return befejezteE; } }
 
         public Nagydij(string[] sor)

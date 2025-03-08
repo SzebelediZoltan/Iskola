@@ -12,10 +12,17 @@ namespace Formula_1_Projekt
         public List<Auto> autok;
         public List<Versenyzo> versenyzok;
 
+        public string Nev { get { return nev; } }
+        public string Auto_1 { get { return autok[0].nev; } }
+        public string Auto_2 { get { return autok[1].nev; } }
+        public string Pilota_1 { get { return versenyzok[0].nev; } }
+        public string Pilota_2 { get { return versenyzok[1].nev; } }
+        public int Gyozelmek { get { return GyozelmekSzama(Adatkezeles.nagydijak); } }
+
         public Csapat(string[] sor)
         {
             nev = sor[0];
-            autok = Adatkezeles.autok.Where(x => x.csapatnev == nev).ToList();
+            autok = Adatkezeles.autok.Where(x => x.csapatnev.Trim() == nev).ToList();
             versenyzok = Adatkezeles.versenyzok.Where(x => x.csapatnev == nev).ToList();
         }
 
@@ -26,7 +33,7 @@ namespace Formula_1_Projekt
             this.nev = nev;
         }
 
-        public int Gyozelmek(List<Nagydij> nagydijak)
+        public int GyozelmekSzama(List<Nagydij> nagydijak)
         {
             return nagydijak.Where(e => e.versenyzo.csapatnev == nev && e.helyezes == 1).Count();
         }

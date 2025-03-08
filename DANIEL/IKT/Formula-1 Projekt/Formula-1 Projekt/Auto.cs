@@ -12,6 +12,13 @@ namespace Formula_1_Projekt
         public int le, maxSebesseg;
         public bool javitasAlatt;
 
+        public string Nev { get { return nev; } }
+        public string Henger_Urtartalom { get { return motor; } }
+        public string Csapat { get { return csapatnev.Trim(); } }
+        public int Lo_Ero { get { return le; } }
+        public int Max_Sebesseg { get { return maxSebesseg; } }
+        public bool Javits_Alatt { get { return javitasAlatt; } }
+
         public Auto(string[] sor)
         {
             nev = sor[0];
