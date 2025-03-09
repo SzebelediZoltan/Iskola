@@ -24,6 +24,12 @@ namespace Formula_1_Projekt.Test
             __Nagydij = new Nagydij(nagydij.Split(';'));
         }
 
+        /// <summary>
+        /// Ellenörzi hogy ha a függvénynek nem VALID paramétert adunk meg akkor helyesen jelez-e vissza és különben helyesen változtat-e az adatbázison
+        /// </summary>
+        /// <param name="ido"></param>
+        /// <param name="vart"></param>
+        /// <param name="vegzett"></param>
         [TestCase("1:-40:15", "1:32:15", false)]
         [TestCase("1:20:15", "1:20:15", true)]
         public void Test_idoKorrekcio(string ido, TimeSpan vart, bool vegzett)
@@ -37,6 +43,9 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(vegzett, valasz);
         }
 
+        /// <summary>
+        /// Ellenörzi hogy a függvény tényleg DNF-elteti a versenyző adott futamát
+        /// </summary>
         [Test]
         public void Test_DNF()
         {

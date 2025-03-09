@@ -24,18 +24,27 @@ namespace Formula_1_Projekt.Test
             __csapat = new Csapat(csapat);
         }
 
-        [Test]
-        public void Test_Nevvaltas()
+        /// <summary>
+        /// Ellenörzi hogy a függvény helyesen váltja-e át a csapat és hozzá tartozó versenyzők csapat neveit
+        /// </summary>
+        [TestCase("kicsike", "kicsike" , true)]
+        [TestCase("", "Mercedes", false)]
+        public void Test_Nevvaltas(string nev, string vart, bool vegzette)
         {
-            __csapat.Nevvaltas("kicsike");
+            bool valasz = __csapat.Nevvaltas(nev);
 
 
-            ClassicAssert.AreEqual(__csapat.nev, "kicsike");
-            ClassicAssert.AreEqual(__csapat.versenyzok[0].csapatnev, "kicsike");
-            ClassicAssert.AreEqual(__csapat.versenyzok[1].csapatnev, "kicsike");
+            ClassicAssert.AreEqual(__csapat.nev, vart);
+            ClassicAssert.AreEqual(__csapat.versenyzok[0].csapatnev, vart);
+            ClassicAssert.AreEqual(__csapat.versenyzok[1].csapatnev, vart);
+            ClassicAssert.AreEqual(vegzette, valasz);
 
         }
 
+        /// <summary>
+        /// Ellenörzi hogy a csapatnak helyesen adja-e vissza a győzelmeinek számát
+        /// </summary>
+        /// <param name="nagydijak"></param>
         [TestCaseSource(nameof(getTestCases))]
         public void Test_Gyozelmek(List<Nagydij> nagydijak)
         {
@@ -44,6 +53,10 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(gyozelmek, 3);
         }
 
+        /// <summary>
+        /// Visszaadja a teszteléshez szükséges listát
+        /// </summary>
+        /// <returns></returns>
         public static IEnumerable<List<Nagydij>> getTestCases()
         {
             Adatkezeles.BeolvasasNagy("fajlok.txt");

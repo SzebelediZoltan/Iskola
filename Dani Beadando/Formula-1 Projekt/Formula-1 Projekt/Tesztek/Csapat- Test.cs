@@ -24,15 +24,17 @@ namespace Formula_1_Projekt.Test
             __csapat = new Csapat(csapat);
         }
 
-        [Test]
-        public void Test_Nevvaltas()
+        [TestCase("kicsike", "kicsike", true)]
+        [TestCase("", "Mercedes", false)]
+        public void Test_Nevvaltas(string nev, string vart, bool vegzette)
         {
-            __csapat.Nevvaltas("kicsike");
+            bool valasz = __csapat.Nevvaltas(nev);
 
 
-            ClassicAssert.AreEqual(__csapat.nev, "kicsike");
-            ClassicAssert.AreEqual(__csapat.versenyzok[0].csapatnev, "kicsike");
-            ClassicAssert.AreEqual(__csapat.versenyzok[1].csapatnev, "kicsike");
+            ClassicAssert.AreEqual(__csapat.nev, vart);
+            ClassicAssert.AreEqual(__csapat.versenyzok[0].csapatnev, vart);
+            ClassicAssert.AreEqual(__csapat.versenyzok[1].csapatnev, vart);
+            ClassicAssert.AreEqual(vegzette, valasz);
 
         }
 

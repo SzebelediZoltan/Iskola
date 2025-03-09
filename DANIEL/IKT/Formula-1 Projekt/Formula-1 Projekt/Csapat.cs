@@ -30,11 +30,16 @@ namespace Formula_1_Projekt
         /// Megváltoztatja a csapat nevét mindenhol az adatbázisban
         /// </summary>
         /// <param name="nev"></param>
-        public void Nevvaltas(string nev)
+        public bool Nevvaltas(string nev)
         {
+            if(nev.Length == 0)
+            {
+                return false;
+            }
             versenyzok[0].csapatnev = nev;
             versenyzok[1].csapatnev = nev;
             this.nev = nev;
+            return true;
         }
 
         /// <summary>

@@ -20,6 +20,13 @@ namespace Formula_1_Projekt.Test
             __auto = new Auto(auto.Split(';'));
         }
 
+        /// <summary>
+        /// Ellenörzi hogy csak helyesen megadott paraméterekkel működik-e a függvény különben pedig helyesen jár-e el
+        /// </summary>
+        /// <param name="n"></param>
+        /// <param name="le"></param>
+        /// <param name="maxSebesseg"></param>
+        /// <param name="vegzett"></param>
         [TestCase(10, 1060, 368, true)]
         [TestCase(-10, 1050, 365, false)]
         public void Test_Autofejlesztes(int n, int le, int maxSebesseg, bool vegzett)
@@ -31,6 +38,9 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(vegzett, valasz);
         }
 
+        /// <summary>
+        /// Teszteli hogy a függvény helyesen rakja-e javítás alá az autót
+        /// </summary>
         [Test]
         public void Test_Javitas()
         {

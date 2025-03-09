@@ -27,6 +27,9 @@ namespace Formula_1_Projekt.Test
             __versenyzo = new Versenyzo(Versenyzo_sor.Split(';'));
         }
 
+        /// <summary>
+        /// Teszteli hogy a függvény tényleg pontosan egy évvel öregszik-e
+        /// </summary>
         [Test]
         public void Test_Oregszik()
         {
@@ -36,6 +39,9 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(__versenyzo.kor, 40);
         }
 
+        /// <summary>
+        /// Ellenörzi hogy a függvény tényleg helyesen számolja-e meg a versenyző eddigi győzelmeit
+        /// </summary>
         [Test]
         public void Test_gyozelmekSzama()
         {
@@ -44,6 +50,9 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(gyozelmek, 3);
         }
 
+        /// <summary>
+        /// Ellenörzi hogy a függvény helyesen változtatja meg a versenyző adatait az átigazoláshoz képest
+        /// </summary>
         [Test]
         public void Test_Atigazolas()
         {

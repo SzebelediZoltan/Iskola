@@ -22,7 +22,11 @@ namespace Formula_1_Projekt.Test
             Adatkezeles.BeolvasasNagy("fajlok_test2.txt");
         }
 
-
+        /// <summary>
+        /// Adott teszt esetekkel ellenőrzi a beovasas helyes vagy hibás esteit
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="vegzett"></param>
         [TestCase("fajlok.txt", true)]
         [TestCase("asd", false)]
         [TestCase("fajlok_test.txt", false)]
@@ -34,21 +38,21 @@ namespace Formula_1_Projekt.Test
             ClassicAssert.AreEqual(vegzett, valasz);
         }
 
+        /// <summary>
+        /// Ellenörzi hogy a függvény helyes futamokat ad-e vissza
+        /// </summary>
         [Test]
         public void Test_szezon()
         {
             List<Nagydij> expected = Adatkezeles.szezon(Adatkezeles.nagydijak, 2023);
 
-            //List<Nagydij> actual = new List<Nagydij>
-            //{
-            //    new Nagydij("2023;Bahreini Nagydíj;Max Verstappen;Red Bull Racing;338;216;1;Igen;1:25:45".Split(';')),
-            //    new Nagydij("2023;Bahreini Nagydíj;Lewis Hamilton;Mercedes;331;210;5;Igen;1:26:45".Split(';'))
-            //};
-
 
             ClassicAssert.IsTrue(expected.All(x => x.ev == 2023));
         }
 
+        /// <summary>
+        /// Teszteli a függvény helyes működését beégetett adatokkal
+        /// </summary>
         [Test]
         public void Test_evek()
         {
@@ -59,6 +63,9 @@ namespace Formula_1_Projekt.Test
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        /// <summary>
+        /// Ellenörzi a függvény helyes működését beégetett 2023-as évvel
+        /// </summary>
         [Test]
         public void Test_nagydijNevek()
         {
@@ -71,6 +78,9 @@ namespace Formula_1_Projekt.Test
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        /// <summary>
+        /// Ellenőrzi hogy a függvény pontosan csak az Ausztrál nagydíjakat adja-e vissza
+        /// </summary>
         [Test]
         public void Test_palyaKivalasztas()
         {
@@ -80,7 +90,10 @@ namespace Formula_1_Projekt.Test
 
             ClassicAssert.IsTrue(expected.All(x => x.nev.Split(' ')[0] == "Ausztrál"));
         }
-
+         
+        /// <summary>
+        /// Ellenörzi hogy a függvény csak a 39 éves versenyzőket adja-e vissza
+        /// </summary>
         [Test]
         public void Test_korKivalasztas()
         {
