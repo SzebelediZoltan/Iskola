@@ -95,7 +95,7 @@
             // 
             this.openFileToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
-            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(180, 30);
+            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(135, 30);
             this.openFileToolStripMenuItem.Text = "Open";
             this.openFileToolStripMenuItem.Click += new System.EventHandler(this.openFileToolStripMenuItem_Click);
             // 
@@ -116,7 +116,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "niggaland";
+            this.Text = "Formula-1 Program";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.FőDGV)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.SortedDGV)).EndInit();
