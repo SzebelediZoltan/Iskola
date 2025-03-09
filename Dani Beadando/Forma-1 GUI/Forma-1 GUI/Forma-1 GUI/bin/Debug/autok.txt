@@ -1,0 +1,20 @@
+W14-01; 1,6; Mercedes; 1050; 365
+W14-02; 1,6; Mercedes; 1050; 365
+RB19-01; 1,6; Red Bull Racing; 1050; 367
+RB19-02; 1,6; Red Bull Racing; 1050; 367
+SF-23-01; 1,6; Ferrari; 1050; 363
+SF-23-02; 1,6; Ferrari; 1050; 363
+AMR23-01; 1,6; Aston Martin; 1050; 360
+AMR23-02; 1,6; Aston Martin; 1050; 360
+AT04-01; 1,6; AlphaTauri; 1050; 362
+AT04-02; 1,6; AlphaTauri; 1050; 362
+MCL60-01; 1,6; McLaren; 1050; 364
+MCL60-02; 1,6; McLaren; 1050; 364
+C43-01; 1,6; Alfa Romeo; 1050; 358
+C43-02; 1,6; Alfa Romeo; 1050; 358
+A523-01; 1,6; Alpine; 1050; 360
+A523-02; 1,6; Alpine; 1050; 360
+FW45-01; 1,6; Williams; 1050; 355
+FW45-02; 1,6; Williams; 1050; 355
+VF-23-01; 1,6; Haas; 1050; 357
+VF-23-02; 1,6; Haas; 1050; 357

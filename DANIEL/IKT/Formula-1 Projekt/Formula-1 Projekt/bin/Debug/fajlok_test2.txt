@@ -1,0 +1,4 @@
+versenyzok_test.txt
+autok_test.txt
+csapatok_test.txt
+nagydijak_test.txt

@@ -1,0 +1,3 @@
+Lewis Hamilton;Mercedes;39;174
+Max Verstappen;Red Bull Racing;26;181
+Charles Leclerc;Ferrari;26;180

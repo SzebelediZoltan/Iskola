@@ -1,0 +1,20 @@
+Lewis Hamilton;Mercedes;39;174
+Max Verstappen;Red Bull Racing;26;181
+Charles Leclerc;Ferrari;26;180
+Lando Norris;McLaren;24;176
+George Russell;Mercedes;26;185
+Carlos Sainz;Ferrari;29;177
+Sergio Pérez;Red Bull Racing;34;173
+Fernando Alonso;Aston Martin;42;171
+Oscar Piastri;McLaren;23;178
+Esteban Ocon;Alpine;27;186
+Pierre Gasly;Alpine;28;177
+Lance Stroll;Aston Martin;25;182
+Kevin Magnussen;Haas;31;174
+Nico Hülkenberg;Haas;36;184
+Valtteri Bottas;Alfa Romeo;34;173
+Zhou Guanyu;Alfa Romeo;25;175
+Yuki Tsunoda;AlphaTauri;24;159
+Daniel Ricciardo;AlphaTauri;34;180
+Alexander Albon;Williams;28;186
+Logan Sargeant;Williams;23;181

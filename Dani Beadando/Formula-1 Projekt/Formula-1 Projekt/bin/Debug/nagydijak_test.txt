@@ -1,0 +1,6 @@
+2022;Bahreini Nagydíj;Lewis Hamilton;Mercedes;335;210;1;Igen;1:32:15
+2022;Bahreini Nagydíj;Max Verstappen;Red Bull Racing;333;209;2;Igen;1:32:30
+2022;Bahreini Nagydíj;Charles Leclerc;Ferrari;332;208;3;Igen;1:32:45
+2023;Bahreini Nagydíj;Max Verstappen;Red Bull Racing;338;216;1;Igen;1:25:45
+2023;Bahreini Nagydíj;Lewis Hamilton;Mercedes;331;210;5;Igen;1:26:45
+2024;Ausztrál Nagydíj;Charles Leclerc;Ferrari;334;212;3;Igen;1:27:00
