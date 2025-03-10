@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\",
+  "WorkspaceRootPath": "H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|h:\\iskola\\daniel\\ikt\\forma-1 gui\\forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|h:\\iskola\\dani beadando\\forma-1 gui\\forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|solutionrelative:forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|..\\Formula-1 Projekt\\Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39DA75F0-55A4-4C0F-B4ED-258E1215BF39}|Forma-1 GUI\\Forma-1 GUI.csproj|solutionrelative:forma-1 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC11AC3-7A9D-455B-B993-58AC43C81C72}|..\\Formula-1 Projekt\\Formula-1 Projekt\\Formula-1 Projekt.csproj|h:\\iskola\\daniel\\ikt\\formula-1 projekt\\formula-1 projekt\\nagydij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,56 +24,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Adatkezeles.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
-              "RelativeDocumentMoniker": "..\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
+              "RelativeDocumentMoniker": "..\\..\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
-              "RelativeToolTip": "..\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Adatkezeles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T07:41:07.793Z"
+              "WhenOpened": "2025-03-04T07:41:07.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
+              "DocumentMoniker": "H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
               "RelativeDocumentMoniker": "Forma-1 GUI\\Form1.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
+              "ToolTip": "H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
               "RelativeToolTip": "Forma-1 GUI\\Form1.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwDkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T07:05:09.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
+              "DocumentMoniker": "H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs",
               "RelativeDocumentMoniker": "Forma-1 GUI\\Form1.cs",
-              "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs [Design]",
+              "ToolTip": "H:\\Iskola\\Dani Beadando\\Forma-1 GUI\\Forma-1 GUI\\Form1.cs [Design]",
               "RelativeToolTip": "Forma-1 GUI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T07:00:54.623Z"
+              "WhenOpened": "2025-03-04T07:00:54.623Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Nagydij.cs",
               "DocumentMoniker": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
-              "RelativeDocumentMoniker": "..\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
+              "RelativeDocumentMoniker": "..\\..\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
               "ToolTip": "H:\\Iskola\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
-              "RelativeToolTip": "..\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
+              "RelativeToolTip": "..\\..\\DANIEL\\IKT\\Formula-1 Projekt\\Formula-1 Projekt\\Nagydij.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T06:55:41.458Z"

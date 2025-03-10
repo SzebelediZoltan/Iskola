@@ -95,8 +95,10 @@ namespace Forma_1_GUI
             {
                 if(Adatkezeles.BeolvasasNagy(openFileDialog1.FileName) == true)
                 {
+                    ToolStripItem c = menuStrip1.Items[0];
+                    menuStrip1.Items.Clear();
+                    menuStrip1.Items.Add(c);
                     GenerateHeader();
-
                 } else
                 {
                     MessageBox.Show("Nem megfelelő a fájl", "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Error);
